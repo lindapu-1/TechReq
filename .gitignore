@@ -1,3 +1,7 @@
+# Specific directories to exclude
+multi-agent/elicitron/
+multi-agent/elicitron/**/*
+
 # Environment variables and secrets
 .env
 .env.*
