@@ -1,0 +1,44 @@
+{
+    "roles": [
+        {
+            "role": "mechanical_engineer",
+            "needs": [
+                "Versatility: Users need a knife that performs well across various kitchen tasks and materials.",
+                "Ease of Use: Intuitive design is essential for safe and effective operation by all users.",
+                "Ergonomics: Comfortable grip and balanced weight distribution are crucial for prolonged use.",
+                "Reliability: Users prefer durable knives that maintain performance over time without frequent issues."
+            ]
+        },
+        {
+            "role": "material_science_engineer",
+            "needs": [
+                "Versatility: Users need a knife that performs well across various kitchen tasks and materials.",
+                "Reliability: Users prefer durable knives that maintain performance over time without frequent issues."
+            ]
+        },
+        {
+            "role": "standards_manager",
+            "needs": [
+                "Ease of Use: Intuitive design is essential for safe and effective operation by all users.",
+                "Reliability: Users prefer durable knives that maintain performance over time without frequent issues.",
+                "Maintenance: Easy care and clear maintenance guidance are important for long-term usability."
+            ]
+        },
+        {
+            "role": "industrial_engineer",
+            "needs": [
+                "Ease of Use: Intuitive design is essential for safe and effective operation by all users.",
+                "Ergonomics: Comfortable grip and balanced weight distribution are crucial for prolonged use.",
+                "Maintenance: Easy care and clear maintenance guidance are important for long-term usability."
+            ]
+        },
+        {
+            "role": "program_manager",
+            "needs": [
+                "Versatility: Users need a knife that performs well across various kitchen tasks and materials.",
+                "Reliability: Users prefer durable knives that maintain performance over time without frequent issues.",
+                "Maintenance: Easy care and clear maintenance guidance are important for long-term usability."
+            ]
+        }
+    ]
+}

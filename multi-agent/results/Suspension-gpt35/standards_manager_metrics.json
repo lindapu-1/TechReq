@@ -1,0 +1,32 @@
+{
+    "The suspension fits a wide variety of bikes, wheels, and tires": [
+        [
+            "Compatibility with different bike frames",
+            "Types of frames"
+        ],
+        [
+            "Adjustable fork length range",
+            "Millimeters"
+        ]
+    ],
+    "The suspension is easy to install": [
+        [
+            "Installation time",
+            "Minutes"
+        ],
+        [
+            "Required tools for installation",
+            "Types of tools"
+        ]
+    ],
+    "The suspension is safe in a crash": [
+        [
+            "Impact force absorption capability",
+            "Newtons"
+        ],
+        [
+            "Durability under crash conditions",
+            "Number of crashes sustained"
+        ]
+    ]
+}

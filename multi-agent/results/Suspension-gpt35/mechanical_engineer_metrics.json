@@ -1,0 +1,104 @@
+{
+    "The suspension reduces vibration to the hands": [
+        [
+            "Vibration dampening efficiency",
+            "Percentage"
+        ]
+    ],
+    "The suspension allows easy traversal of slow, difficult terrain": [
+        [
+            "Terrain traversal ease",
+            "Rating scale"
+        ]
+    ],
+    "The suspension enables high-speed descents on bumpy trails": [
+        [
+            "Stability during high-speed descents",
+            "Rating scale"
+        ]
+    ],
+    "The suspension allows sensitivity adjustment": [
+        [
+            "Sensitivity adjustability",
+            "Yes/No"
+        ]
+    ],
+    "The suspension preserves the steering characteristics of the bike": [
+        [
+            "Steering stability preservation",
+            "Yes/No"
+        ]
+    ],
+    "The suspension remains rigid during hard cornering": [
+        [
+            "Rigidity during cornering",
+            "Yes/No"
+        ]
+    ],
+    "The suspension provides stiff mounting points for the brakes": [
+        [
+            "Brake mounting stiffness",
+            "Rating scale"
+        ]
+    ],
+    "The suspension fits a wide variety of bikes, wheels, and tires": [
+        [
+            "Compatibility with various bike types",
+            "Yes/No"
+        ]
+    ],
+    "The suspension works with fenders": [
+        [
+            "Compatibility with fenders",
+            "Yes/No"
+        ]
+    ],
+    "The suspension is easy to install": [
+        [
+            "Installation simplicity",
+            "Rating scale"
+        ]
+    ],
+    "The suspension is not contaminated by water": [
+        [
+            "Water resistance",
+            "Yes/No"
+        ]
+    ],
+    "The suspension is not contaminated by grunge": [
+        [
+            "Grunge resistance",
+            "Yes/No"
+        ]
+    ],
+    "The suspension can be easily accessed for maintenance": [
+        [
+            "Maintenance accessibility",
+            "Rating scale"
+        ]
+    ],
+    "The suspension allows easy replacement of worn parts": [
+        [
+            "Parts replacement ease",
+            "Yes/No"
+        ]
+    ],
+    "The suspension can be maintained with readily available tools": [
+        [
+            "Tool requirement for maintenance",
+            "Common tools"
+        ]
+    ],
+    "The suspension lasts a long time": [
+        [
+            "Durability",
+            "Years"
+        ]
+    ],
+    "The suspension is safe in a crash": [
+        [
+            "Crash safety",
+            "Rating scale"
+        ]
+    ]
+}

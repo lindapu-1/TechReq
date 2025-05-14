@@ -1,0 +1,42 @@
+{
+    "The Desktop Heaters ensure durability and long-lasting performance to satisfy the needs of budget-conscious consumers.": [
+        [
+            "Operating lifetime \u2265 2000 hours under continuous operation at 25\u00b0C ambient temperature",
+            "hours"
+        ],
+        [
+            "Withstands \u2265 10,000 on/off cycles (1 hour on, 0.5 hours off) with < 10% drop in max heating power",
+            "cycles"
+        ]
+    ],
+    "The Desktop Heaters feature cool-touch surfaces to prevent burns and enhance user safety.": [
+        [
+            "Maximum allowable surface temperature \u2264 60\u00b0C at 25\u00b0C ambient",
+            "\u00b0C"
+        ],
+        [
+            "Housing material thermal conductivity < 1.0",
+            "W/m-K"
+        ],
+        [
+            "Housing material specific heat capacity > 1000",
+            "J/kg-K"
+        ],
+        [
+            "Housing material flammability rating \u2265 UL94 V-1",
+            "UL94 rating"
+        ],
+        [
+            "Toxic gas emission when overheated < 100 ppm Carbon monoxide",
+            "ppm"
+        ],
+        [
+            "Impact resistance - survives 1 meter drop onto concrete with no damage",
+            "m"
+        ],
+        [
+            "No accessible sharp edges with radius < 1 mm or pinch points",
+            "binary (Y/N)"
+        ]
+    ]
+}

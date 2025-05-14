@@ -1,0 +1,34 @@
+{
+    "The Children's multi-purpose bike helmets incorporate vibrant colors and trendy designs to enhance visual appeal and peer approval among children": [
+        [
+            "Number of available color options",
+            "Count"
+        ],
+        [
+            "Number of design variations",
+            "Count"
+        ],
+        [
+            "Survey results on visual appeal",
+            "Percentage or Rating scale (e.g., 1 to 5)"
+        ],
+        [
+            "Color fastness rating (ISO 105-B02)",
+            "Rating scale"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets come with certifications from recognized safety authorities to meet parental expectations": [
+        [
+            "Number of safety certifications",
+            "Count"
+        ],
+        [
+            "List of certifying bodies",
+            "Text/List"
+        ],
+        [
+            "Duration of certification validity",
+            "Years"
+        ]
+    ]
+}

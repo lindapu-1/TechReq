@@ -1,0 +1,88 @@
+{
+    "Comfort through adjustable straps": [
+        [
+            "Strap adjustment range",
+            "mm"
+        ],
+        [
+            "Strap tension force",
+            "N"
+        ],
+        [
+            "Pressure distribution uniformity",
+            "kPa variance"
+        ],
+        [
+            "Strap padding thickness",
+            "mm"
+        ],
+        [
+            "Ventilation area",
+            "cm\u00b2"
+        ],
+        [
+            "Air flow rate",
+            "m\u00b3/h"
+        ],
+        [
+            "Weight",
+            "g"
+        ]
+    ],
+    "Innovative designs for safety without compromising production efficiency": [
+        [
+            "Production cycle time",
+            "minutes"
+        ],
+        [
+            "Number of manufacturing steps",
+            "count"
+        ],
+        [
+            "Material usage efficiency",
+            "%"
+        ],
+        [
+            "Design modularity",
+            "% of common components"
+        ]
+    ],
+    "Safety features for parental assurance": [
+        [
+            "Impact energy absorption",
+            "J"
+        ],
+        [
+            "Peak acceleration during impact",
+            "g"
+        ],
+        [
+            "Helmet retention force",
+            "N"
+        ],
+        [
+            "Coverage area of protection",
+            "% of head surface"
+        ],
+        [
+            "Number of adjustment points",
+            "count"
+        ],
+        [
+            "Size adjustability range",
+            "cm"
+        ],
+        [
+            "Material hypoallergenic rating",
+            "scale (1-10)"
+        ],
+        [
+            "Reflective surface area",
+            "cm\u00b2"
+        ],
+        [
+            "Visibility distance in low light",
+            "m"
+        ]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "The Children's multi-purpose bike helmets meet all necessary safety certifications to guarantee protection.": [
+        [
+            "Safety certification compliance",
+            "Yes/No"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets adapt easily to new safety regulations to maintain compliance.": [
+        [
+            "Time to adapt to new regulations",
+            "Days"
+        ],
+        [
+            "Number of updates to the safety standard integrated",
+            "Count"
+        ],
+        [
+            "Frequency of review for new regulations",
+            "Times per year"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets come with certifications from recognized safety authorities to meet parental expectations.": [
+        [
+            "Number of recognized certifications",
+            "Count"
+        ]
+    ]
+}

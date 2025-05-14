@@ -1,0 +1,108 @@
+{
+    "Excellent value and affordability": [
+        [
+            "Purchase price",
+            "$"
+        ],
+        [
+            "Operating cost",
+            "$/hour"
+        ],
+        [
+            "Warranty period",
+            "Years"
+        ],
+        [
+            "Expected product lifespan",
+            "Years"
+        ],
+        [
+            "Cost per heating BTU",
+            "$/BTU"
+        ],
+        [
+            "Energy efficiency ratio",
+            "%"
+        ]
+    ],
+    "Smart technology integration": [
+        [
+            "Number of automated heating modes",
+            "Count"
+        ],
+        [
+            "Number of compatible smart home platforms",
+            "Count"
+        ],
+        [
+            "Software update frequency",
+            "Updates/year"
+        ],
+        [
+            "Time to market for new feature implementation",
+            "Weeks"
+        ],
+        [
+            "Percentage of industry-standard protocols supported",
+            "%"
+        ]
+    ],
+    "Positive customer reviews": [
+        [
+            "Average customer rating",
+            "Stars (1-5)"
+        ],
+        [
+            "Percentage of 4+ star reviews",
+            "%"
+        ],
+        [
+            "Net Promoter Score",
+            "Score (-100 to 100)"
+        ],
+        [
+            "First-year return rate",
+            "%"
+        ]
+    ],
+    "Smart connectivity options": [
+        [
+            "Number of connectivity protocols supported",
+            "Count"
+        ],
+        [
+            "Number of programmable settings",
+            "Count"
+        ],
+        [
+            "Remote access response time",
+            "Seconds"
+        ],
+        [
+            "API availability for developers",
+            "Yes/No"
+        ],
+        [
+            "Number of third-party integration options",
+            "Count"
+        ]
+    ],
+    "Virtual assistant compatibility": [
+        [
+            "Number of compatible virtual assistants",
+            "Count"
+        ],
+        [
+            "Voice command response time",
+            "Seconds"
+        ],
+        [
+            "Number of voice-controllable functions",
+            "Count"
+        ],
+        [
+            "Voice command recognition accuracy",
+            "%"
+        ]
+    ]
+}

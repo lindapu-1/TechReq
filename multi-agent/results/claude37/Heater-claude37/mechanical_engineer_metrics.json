@@ -1,0 +1,62 @@
+{
+    "The Desktop Heaters prioritize safety by including automatic shut-off mechanisms to prevent overheating and fire hazards": [
+        [
+            "Time to automatic shutdown after reaching threshold temperature",
+            "Seconds"
+        ],
+        [
+            "Maximum temperature before automatic shutdown",
+            "\u00b0C"
+        ],
+        [
+            "Circuit breaker capacity",
+            "Amperes"
+        ]
+    ],
+    "The Desktop Heaters feature cool-touch surfaces to prevent burns and enhance user safety": [
+        [
+            "Maximum external surface temperature during operation",
+            "\u00b0C"
+        ],
+        [
+            "Thermal insulation effectiveness",
+            "W/(m\u00b2\u00b7K)"
+        ],
+        [
+            "Surface material heat resistance",
+            "\u00b0C"
+        ],
+        [
+            "Temperature gradient across enclosure",
+            "\u00b0C/cm"
+        ]
+    ],
+    "The Desktop Heaters incorporate robust safety mechanisms such as tip-over protection to prevent accidents": [
+        [
+            "Tip-over response time",
+            "Seconds"
+        ],
+        [
+            "Maximum tilt angle before shutdown",
+            "Degrees"
+        ],
+        [
+            "Tip-over switch mechanical durability",
+            "Cycles"
+        ]
+    ],
+    "The Desktop Heaters feature a thermal cut-off to safeguard against overheating and potential fire hazards": [
+        [
+            "Thermal fuse activation temperature",
+            "\u00b0C"
+        ],
+        [
+            "Thermal cut-off response time",
+            "Seconds"
+        ],
+        [
+            "Redundancy of thermal cutoff systems",
+            "Count"
+        ]
+    ]
+}

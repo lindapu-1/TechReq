@@ -1,0 +1,60 @@
+{
+    "The Children's multi-purpose bike helmets incorporate vibrant colors and trendy designs to enhance visual appeal.": [
+        [
+            "Color stability under UV exposure",
+            "Hours until 10% color degradation"
+        ],
+        [
+            "Color gamut range",
+            "\u0394E (CIELAB color space)"
+        ],
+        [
+            "Material compatibility with design features",
+            "% of design elements successfully incorporated"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets provide comfort through breathable materials to ensure consistent use.": [
+        [
+            "Water vapor transmission rate",
+            "g/m\u00b2/24hr"
+        ],
+        [
+            "Air permeability",
+            "L/m\u00b2/s"
+        ],
+        [
+            "Thermal resistance",
+            "m\u00b2K/W"
+        ],
+        [
+            "Cushioning efficiency",
+            "% force reduction"
+        ],
+        [
+            "Contact pressure distribution",
+            "kPa variance"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets integrate innovative materials to enhance safety without compromising production efficiency.": [
+        [
+            "Impact energy absorption",
+            "J/kg"
+        ],
+        [
+            "Material fatigue resistance",
+            "Cycles before failure"
+        ],
+        [
+            "Material processing temperature window",
+            "\u00b0C"
+        ],
+        [
+            "Cure/solidification time",
+            "Minutes"
+        ],
+        [
+            "Material yield",
+            "% usable material"
+        ]
+    ]
+}

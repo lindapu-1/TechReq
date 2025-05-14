@@ -1,0 +1,34 @@
+{
+    "The suspension is lightweight": [
+        [
+            "Density",
+            "g/cm^3"
+        ]
+    ],
+    "The suspension is not contaminated by water": [
+        [
+            "Water Absorption",
+            "%"
+        ],
+        [
+            "Water Permeability",
+            "m/s"
+        ]
+    ],
+    "The suspension is not contaminated by grunge": [
+        [
+            "Grunge Absorption",
+            "%"
+        ],
+        [
+            "Grunge Filtration Efficiency",
+            "%"
+        ]
+    ],
+    "The suspension lasts a long time": [
+        [
+            "Corrosion Resistance",
+            "Years"
+        ]
+    ]
+}

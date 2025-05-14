@@ -1,0 +1,98 @@
+{
+    "Enhance cooking efficiency": [
+        [
+            "Blade sharpness consistency",
+            "Degree of angle"
+        ],
+        [
+            "Sharpness maintenance over time",
+            "Months"
+        ]
+    ],
+    "Ensure user safety": [
+        [
+            "Safety lock effectiveness",
+            "Lock strength rating"
+        ],
+        [
+            "Ease of safety lock engagement/disengagement",
+            "Effort score"
+        ]
+    ],
+    "Offer ergonomic design": [
+        [
+            "Handle comfort",
+            "Ergonomic rating scale"
+        ],
+        [
+            "Weight distribution",
+            "Balance score"
+        ]
+    ],
+    "Provide durable build": [
+        [
+            "Material tensile strength",
+            "PSI"
+        ],
+        [
+            "Impact resistance",
+            "Impact energy (Joules)"
+        ]
+    ],
+    "Incorporate multifunctional capabilities": [
+        [
+            "Number of functions",
+            "Count"
+        ]
+    ],
+    "Deliver robust performance in outdoor conditions": [
+        [
+            "Blade corrosion resistance",
+            "Rating scale"
+        ]
+    ],
+    "Maintain resilience in harsh environments": [
+        [
+            "Wear resistance",
+            "Abrasion rating"
+        ],
+        [
+            "UV resistance",
+            "UV exposure rating"
+        ]
+    ],
+    "Facilitate ease of use": [
+        [
+            "Deployment speed",
+            "Seconds"
+        ]
+    ],
+    "Feature rugged construction": [
+        [
+            "Construction integrity",
+            "Integrity score"
+        ]
+    ],
+    "Incorporate sharp blades": [
+        [
+            "Edge retention duration",
+            "Months"
+        ]
+    ],
+    "Provide secure grip": [
+        [
+            "Grip friction coefficient",
+            "Coefficient of friction"
+        ]
+    ],
+    "Offer compact form factor": [
+        [
+            "Folded knife dimensions",
+            "Inches/cm"
+        ],
+        [
+            "Weight",
+            "Ounces/grams"
+        ]
+    ]
+}

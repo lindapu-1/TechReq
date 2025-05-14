@@ -1,0 +1,56 @@
+{
+    "The suspension fits a wide variety of bikes, wheels, and tires": [
+        [
+            "Compatibility with bike frame sizes",
+            "Range of sizes"
+        ],
+        [
+            "Wheel size compatibility",
+            "Inches"
+        ],
+        [
+            "Tire width compatibility",
+            "Millimeters"
+        ],
+        [
+            "Axle type compatibility",
+            "Standard Types (e.g., Thru-axle, Quick-release)"
+        ]
+    ],
+    "The suspension is easy to install": [
+        [
+            "Number of installation steps",
+            "Count"
+        ],
+        [
+            "Time required for installation",
+            "Minutes"
+        ],
+        [
+            "Specialized tools required for installation",
+            "Boolean (Yes/No)"
+        ],
+        [
+            "Instruction clarity rating",
+            "Rating scale (1 to 5)"
+        ]
+    ],
+    "The suspension is safe in a crash": [
+        [
+            "Energy absorption capacity",
+            "Joules"
+        ],
+        [
+            "Structural integrity in impact testing",
+            "Pass/Fail"
+        ],
+        [
+            "Safety certifications",
+            "Presence/Absence"
+        ],
+        [
+            "Failure mode analysis",
+            "Descriptive"
+        ]
+    ]
+}

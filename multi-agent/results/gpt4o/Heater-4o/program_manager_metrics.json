@@ -1,0 +1,64 @@
+{
+    "The Desktop Heaters provide excellent value by combining affordability with reliable performance, ensuring cost-effectiveness for budget-conscious users.": [
+        [
+            "Initial purchase cost",
+            "USD"
+        ],
+        [
+            "Energy efficiency",
+            "Watts per hour"
+        ],
+        [
+            "Performance reliability rating",
+            "Rating Scale (1-10)"
+        ],
+        [
+            "Warranty period",
+            "Years"
+        ]
+    ],
+    "The Desktop Heaters incorporate the latest smart technology, including smart controls and home automation integration, to meet the expectations of tech enthusiasts.": [
+        [
+            "Number of smart control features",
+            "Count"
+        ],
+        [
+            "Home automation integration capability",
+            "Compatible Platforms"
+        ]
+    ],
+    "The Desktop Heaters receive positive customer reviews illustrating consistent and satisfactory performance.": [
+        [
+            "Average customer review rating",
+            "Stars (1-5)"
+        ],
+        [
+            "Number of customer reviews",
+            "Count"
+        ],
+        [
+            "Percentage of positive reviews",
+            "Percentage (%)"
+        ]
+    ],
+    "The Desktop Heaters include smart connectivity options and programmable settings to allow customization and convenience for tech-savvy users.": [
+        [
+            "Number of programmable settings",
+            "Count"
+        ],
+        [
+            "Types of connectivity options",
+            "List of Connectivity Types"
+        ]
+    ],
+    "The Desktop Heaters are compatible with virtual assistants to enhance user convenience and integration into smart home ecosystems.": [
+        [
+            "Number of compatible virtual assistant platforms",
+            "Count"
+        ],
+        [
+            "Key compatible platforms",
+            "List of Platforms"
+        ]
+    ]
+}

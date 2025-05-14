@@ -1,0 +1,66 @@
+{
+    "Coordinate smart technology integration": [
+        [
+            "Number of smart features integrated",
+            "Count"
+        ],
+        [
+            "Mobile app connectivity success rate",
+            "%"
+        ],
+        [
+            "Smart temperature control functionality test pass rate",
+            "%"
+        ],
+        [
+            "Time to sync with mobile devices",
+            "Seconds"
+        ],
+        [
+            "Cross-platform compatibility",
+            "Number of supported platforms"
+        ],
+        [
+            "Integration milestone achievement rate across supplier teams",
+            "%"
+        ],
+        [
+            "Technology integration schedule variance",
+            "Days"
+        ],
+        [
+            "User satisfaction rating for smart features",
+            "Score (1-10)"
+        ]
+    ],
+    "Ensure adherence to safety standards across various international markets": [
+        [
+            "Number of international certifications obtained",
+            "Count"
+        ],
+        [
+            "Compliance rate with regional electrical standards",
+            "%"
+        ],
+        [
+            "Maximum temperature deviation from safety threshold",
+            "\u00b0C"
+        ],
+        [
+            "Auto shut-off response time",
+            "Seconds"
+        ],
+        [
+            "Number of markets with full compliance documentation",
+            "Count"
+        ],
+        [
+            "Safety compliance traceability completeness",
+            "%"
+        ],
+        [
+            "Time to address safety compliance gaps",
+            "Days"
+        ]
+    ]
+}

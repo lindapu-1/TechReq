@@ -1,0 +1,216 @@
+{
+    "The Folding Knives ensure user safety with built-in safety mechanisms that prevent accidental closures or injuries.": [
+        [
+            "Lock failure force",
+            "N"
+        ],
+        [
+            "Number of safety features",
+            "Count"
+        ],
+        [
+            "Accidental closure force threshold",
+            "N"
+        ],
+        [
+            "Pinch point clearance",
+            "mm"
+        ],
+        [
+            "Time to engage safety lock",
+            "seconds"
+        ],
+        [
+            "Lock engagement travel distance",
+            "mm"
+        ]
+    ],
+    "The Folding Knives offer ergonomic design to maximize comfort during prolonged use by home cooks.": [
+        [
+            "Handle grip diameter",
+            "mm"
+        ],
+        [
+            "Weight distribution ratio (blade:handle)",
+            "Ratio"
+        ],
+        [
+            "Surface texture coefficient of friction",
+            "Dimensionless"
+        ],
+        [
+            "Handle contact surface area",
+            "cm\u00b2"
+        ],
+        [
+            "Pressure distribution uniformity",
+            "% variance"
+        ],
+        [
+            "Handle angle relative to blade",
+            "degrees"
+        ],
+        [
+            "Grip indentation depth",
+            "mm"
+        ]
+    ],
+    "The Folding Knives provide a durable build that withstands frequent use and diverse tasks for handymen.": [
+        [
+            "Blade hardness",
+            "HRC (Rockwell C)"
+        ],
+        [
+            "Cycles to failure (opening/closing)",
+            "Count"
+        ],
+        [
+            "Corrosion resistance rating",
+            "Hours in salt spray test"
+        ],
+        [
+            "Impact resistance",
+            "J"
+        ],
+        [
+            "Blade edge retention",
+            "Number of cuts before dulling"
+        ]
+    ],
+    "The Folding Knives incorporate multifunctional capabilities, allowing handymen to adapt quickly to various tasks.": [
+        [
+            "Number of integrated tools",
+            "Count"
+        ],
+        [
+            "Tool changeover time",
+            "seconds"
+        ],
+        [
+            "Number of distinct task types addressed",
+            "Count"
+        ],
+        [
+            "Tool interface standardization",
+            "% compatibility"
+        ],
+        [
+            "Tool access time",
+            "seconds"
+        ]
+    ],
+    "The Folding Knives deliver robust performance in outdoor conditions, ensuring reliability during activities like hiking, camping, and fishing.": [
+        [
+            "Operating temperature range",
+            "\u00b0C"
+        ],
+        [
+            "Water/dust ingress protection",
+            "IP rating"
+        ],
+        [
+            "UV degradation resistance",
+            "Hours of exposure"
+        ],
+        [
+            "Material galvanic corrosion resistance",
+            "mV potential difference"
+        ],
+        [
+            "Thermal shock resistance",
+            "Cycles without failure"
+        ]
+    ],
+    "The Folding Knives facilitate ease of use with intuitive design features that enable quick deployment and retraction.": [
+        [
+            "Deployment time",
+            "seconds"
+        ],
+        [
+            "Deployment force",
+            "N"
+        ],
+        [
+            "Number of actions to deploy/retract",
+            "Count"
+        ],
+        [
+            "Blade accessibility angle",
+            "degrees"
+        ],
+        [
+            "Deployment mechanism visibility",
+            "% visible area"
+        ]
+    ],
+    "The Folding Knives feature a rugged construction to support multifunctional use in outdoor scenarios without compromising integrity.": [
+        [
+            "Torsional rigidity",
+            "N\u00b7m/\u00b0"
+        ],
+        [
+            "Blade deflection under load",
+            "mm at specified load"
+        ],
+        [
+            "Material yield strength",
+            "MPa"
+        ],
+        [
+            "Joint stress concentration factor",
+            "Dimensionless"
+        ],
+        [
+            "Fastener retention torque",
+            "N\u00b7m"
+        ]
+    ],
+    "The Folding Knives provide a secure grip to prevent slipping during use, enhancing safety and control.": [
+        [
+            "Handle surface coefficient of friction (wet/dry)",
+            "Dimensionless"
+        ],
+        [
+            "Grip retention force under load",
+            "N"
+        ],
+        [
+            "Textured surface area percentage",
+            "%"
+        ],
+        [
+            "Grip pattern depth",
+            "mm"
+        ],
+        [
+            "Handle material shore hardness",
+            "Shore A/D"
+        ]
+    ],
+    "The Folding Knives offer a compact form factor that allows easy storage and portability without sacrificing functionality.": [
+        [
+            "Closed length",
+            "mm"
+        ],
+        [
+            "Thickness",
+            "mm"
+        ],
+        [
+            "Weight",
+            "g"
+        ],
+        [
+            "Folded-to-deployed length ratio",
+            "Ratio"
+        ],
+        [
+            "Feature density",
+            "features/cm\u00b3"
+        ],
+        [
+            "Pocket clip retention force",
+            "N"
+        ]
+    ]
+}

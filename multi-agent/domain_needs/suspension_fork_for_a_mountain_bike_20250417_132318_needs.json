@@ -1,0 +1,60 @@
+{
+    "roles": [
+        {
+            "role": "mechanical_engineer",
+            "needs": [
+                "The suspension reduces vibration to the hands",
+                "The suspension allows easy traversal of slow, difficult terrain",
+                "The suspension enables high-speed descents on bumpy trails",
+                "The suspension allows sensitivity adjustment",
+                "The suspension preserves the steering characteristics of the bike",
+                "The suspension remains rigid during hard cornering",
+                "The suspension provides stiff mounting points for the brakes",
+                "The suspension fits a wide variety of bikes, wheels, and tires",
+                "The suspension works with fenders",
+                "The suspension is easy to install",
+                "The suspension is not contaminated by water",
+                "The suspension is not contaminated by grunge",
+                "The suspension can be easily accessed for maintenance",
+                "The suspension allows easy replacement of worn parts",
+                "The suspension can be maintained with readily available tools",
+                "The suspension lasts a long time",
+                "The suspension is safe in a crash"
+            ]
+        },
+        {
+            "role": "material_science_engineer",
+            "needs": [
+                "The suspension is lightweight",
+                "The suspension is not contaminated by water",
+                "The suspension is not contaminated by grunge",
+                "The suspension lasts a long time"
+            ]
+        },
+        {
+            "role": "standards_manager",
+            "needs": [
+                "The suspension fits a wide variety of bikes, wheels, and tires",
+                "The suspension is easy to install",
+                "The suspension is safe in a crash"
+            ]
+        },
+        {
+            "role": "industrial_engineer",
+            "needs": [
+                "The suspension allows easy replacement of worn parts",
+                "The suspension can be easily accessed for maintenance",
+                "The suspension can be maintained with readily available tools",
+                "The suspension is easy to install"
+            ]
+        },
+        {
+            "role": "program_manager",
+            "needs": [
+                "The suspension is lightweight",
+                "The suspension instills pride",
+                "The suspension is affordable for an amateur enthusiast"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "The Children's multi-purpose bike helmets comply with the latest safety standards and have certifications from recognized safety organizations.": [
+        [
+            "Compliance with latest CPSC safety standards",
+            "Yes/No"
+        ],
+        [
+            "Certification from ASTM International",
+            "Yes/No"
+        ],
+        [
+            "Certification from Snell Memorial Foundation",
+            "Yes/No"
+        ],
+        [
+            "Test results for impact resistance",
+            "Pass/Fail"
+        ],
+        [
+            "Test results for strap retention system",
+            "Pass/Fail"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets include clear labeling of safety certifications to reassure users of the product's reliability.": [
+        [
+            "Presence of safety certification labels",
+            "Yes/No"
+        ],
+        [
+            "Clarity of safety certification information",
+            "1-5 Scale (1 = Illegible, 5 = Perfectly Legible)"
+        ],
+        [
+            "Optimal location of certification labels",
+            "Position (e.g., Visible upon first glance inside the helmet)"
+        ]
+    ]
+}

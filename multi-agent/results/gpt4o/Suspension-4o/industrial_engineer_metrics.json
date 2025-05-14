@@ -1,0 +1,42 @@
+{
+    "The suspension allows easy replacement of worn parts": [
+        [
+            "Number of standardized parts",
+            "Count"
+        ],
+        [
+            "Time to replace standard parts",
+            "Minutes"
+        ]
+    ],
+    "The suspension can be easily accessed for maintenance": [
+        [
+            "Number of steps to access internal components",
+            "Count"
+        ],
+        [
+            "Access clearance dimensions",
+            "Millimeters"
+        ]
+    ],
+    "The suspension can be maintained with readily available tools": [
+        [
+            "Availability of tools among target users",
+            "Percentage"
+        ],
+        [
+            "Compatibility with common tool standards",
+            "Binary/Specification"
+        ]
+    ],
+    "The suspension is easy to install": [
+        [
+            "Time to install",
+            "Minutes"
+        ],
+        [
+            "Number of installation steps",
+            "Count"
+        ]
+    ]
+}

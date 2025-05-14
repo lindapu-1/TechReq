@@ -1,0 +1,58 @@
+{
+    "The Folding Knives provide a durable build that withstands frequent use and diverse tasks for handymen.": [
+        [
+            "Tensile strength of the handle and blade",
+            "Megapascals (MPa)"
+        ],
+        [
+            "Corrosion resistance",
+            "Salt spray hours"
+        ],
+        [
+            "Impact resistance (using specific ASTM testing, e.g., ASTM D256)",
+            "Joules"
+        ],
+        [
+            "Flexural strength of the blade",
+            "Megapascals (MPa)"
+        ]
+    ],
+    "The Folding Knives maintain resilience in harsh outdoor environments.": [
+        [
+            "Material hardness",
+            "Rockwell Hardness Scale (HRC)"
+        ],
+        [
+            "Abrasion resistance (using specific ASTM testing, e.g., ASTM G65)",
+            "ASTM Wear Rate"
+        ],
+        [
+            "UV resistance (specifying exposure method; e.g., ASTM G154)",
+            "Hours to degradation"
+        ],
+        [
+            "Temperature resistance range",
+            "Degrees Celsius (\u00b0C)"
+        ]
+    ],
+    "The Folding Knives incorporate sharp blades that maintain an edge over time.": [
+        [
+            "Edge retention",
+            "Number of cuts before dulling"
+        ],
+        [
+            "Blade wear resistance",
+            "Loss of material (grams or milligrams)"
+        ]
+    ],
+    "The Folding Knives provide a secure grip.": [
+        [
+            "Coefficient of friction of handle",
+            "Dimensionless"
+        ],
+        [
+            "Surface texture of handle",
+            "Micro-scale measurement"
+        ]
+    ]
+}

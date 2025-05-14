@@ -1,0 +1,46 @@
+{
+    "Coordinate smart technology integration": [
+        [
+            "Compatibility with various smart home systems",
+            "Supported systems"
+        ],
+        [
+            "Connectivity options",
+            "Types (Bluetooth, Wi-Fi)"
+        ],
+        [
+            "Ease of smart app integration",
+            "Steps required"
+        ],
+        [
+            "Time taken for integration",
+            "Minutes"
+        ],
+        [
+            "User satisfaction during integration",
+            "Satisfaction Score (1-10)"
+        ]
+    ],
+    "Ensure adherence to safety standards across various international markets": [
+        [
+            "Compliance with regional electrical safety standards",
+            "Standards met (e.g., CE, UL, CCC)"
+        ],
+        [
+            "Voltage compatibility",
+            "Voltage range"
+        ],
+        [
+            "Heat protection mechanisms",
+            "Types of safety features"
+        ],
+        [
+            "Overheat prevention performance",
+            "Response time (seconds)"
+        ],
+        [
+            "Durability of safety features under various conditions",
+            "Test hours"
+        ]
+    ]
+}

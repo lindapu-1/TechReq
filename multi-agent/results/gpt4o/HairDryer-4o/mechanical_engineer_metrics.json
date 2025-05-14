@@ -1,0 +1,62 @@
+{
+    "Enhance convenience with a compact design and multifunctional capabilities": [
+        [
+            "Dimensions of the dryer",
+            "cm"
+        ],
+        [
+            "Number of heat settings",
+            "count"
+        ],
+        [
+            "Number of speed settings",
+            "count"
+        ],
+        [
+            "Ergonomic design rating",
+            "subjective rating"
+        ]
+    ],
+    "Lightweight, compact design with dual voltage capability": [
+        [
+            "Weight of the dryer",
+            "grams"
+        ],
+        [
+            "Voltage compatibility range",
+            "volts"
+        ],
+        [
+            "Volume of the dryer",
+            "cubic cm"
+        ]
+    ],
+    "A folding handle or detachable diffuser for enhanced portability": [
+        [
+            "Availability of folding mechanism",
+            "binary (yes/no)"
+        ],
+        [
+            "Availability of detachable parts",
+            "binary (yes/no)"
+        ],
+        [
+            "Ease of assembly/disassembly time",
+            "seconds"
+        ]
+    ],
+    "Overheat protection to prevent potential hazards": [
+        [
+            "Temperature cut-off threshold",
+            "\u00b0C"
+        ],
+        [
+            "Time to auto-shutdown in case of overheating",
+            "seconds"
+        ],
+        [
+            "Reset time after shutdown",
+            "seconds"
+        ]
+    ]
+}

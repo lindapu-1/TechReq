@@ -1,0 +1,50 @@
+{
+    "The suspension is lightweight": [
+        [
+            "Material density",
+            "kg/m\u00b3"
+        ],
+        [
+            "Total mass of suspension fork",
+            "kg"
+        ],
+        [
+            "Specific strength (strength-to-weight ratio)",
+            "N\u00b7m/kg"
+        ]
+    ],
+    "The suspension is not contaminated by water": [
+        [
+            "Waterproof rating",
+            "IP Code (Ingress Protection)"
+        ],
+        [
+            "Waterproof durability after mechanical stress",
+            "Number of cycles or tests passed"
+        ]
+    ],
+    "The suspension is not contaminated by grunge": [
+        [
+            "Seal effectiveness against particles",
+            "Percentage (%)"
+        ],
+        [
+            "Protection range against particle sizes",
+            "micrometers (\u00b5m)"
+        ]
+    ],
+    "The suspension lasts a long time": [
+        [
+            "Fatigue resistance",
+            "Number of cycles until failure"
+        ],
+        [
+            "Corrosion resistance",
+            "Salt spray hours (ASTM B117)"
+        ],
+        [
+            "Wear resistance",
+            "Wear rate (mm\u00b3/N\u00b7m)"
+        ]
+    ]
+}

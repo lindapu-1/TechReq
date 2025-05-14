@@ -1,0 +1,24 @@
+{
+    "The Desktop Heaters are certified by recognized safety organizations to ensure compliance with stringent safety standards.": [
+        [
+            "Certification by Underwriters Laboratories (UL)",
+            "Binary (Yes/No)"
+        ],
+        [
+            "Certification by Canadian Standards Association (CSA)",
+            "Binary (Yes/No)"
+        ],
+        [
+            "Compliance with IEC 60335-2-30 standard for room heaters",
+            "Binary (Yes/No)"
+        ],
+        [
+            "100% passed 20-point internal heater safety checklist",
+            "Percentage"
+        ],
+        [
+            "Compliance with UL 1278 standard for portable electric heaters",
+            "Binary (Yes/No)"
+        ]
+    ]
+}

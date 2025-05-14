@@ -1,0 +1,32 @@
+{
+    "Lightweight materials for compact design": [
+        [
+            "Material density",
+            "g/cm\u00b3"
+        ],
+        [
+            "Specific strength (strength-to-weight ratio)",
+            "MPa/(g/cm\u00b3)"
+        ],
+        [
+            "Minimum viable wall thickness",
+            "mm"
+        ],
+        [
+            "Thermal resistance-to-weight ratio",
+            "(m\u00b2\u00b7K/W)/g"
+        ],
+        [
+            "Material moldability index",
+            "dimensionless (1-10 scale)"
+        ],
+        [
+            "Multi-functionality coefficient",
+            "functions/component"
+        ],
+        [
+            "Heat deflection temperature per unit density",
+            "(\u00b0C\u00b7cm\u00b3)/g"
+        ]
+    ]
+}

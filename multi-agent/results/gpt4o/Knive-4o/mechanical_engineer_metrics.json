@@ -1,0 +1,96 @@
+{
+    "Ensures user safety with built-in safety mechanisms": [
+        [
+            "Lock mechanism strength",
+            "N (Newtons)"
+        ],
+        [
+            "Safety lock engagement force",
+            "N (Newtons)"
+        ],
+        [
+            "Safety lock disengagement force",
+            "N (Newtons)"
+        ]
+    ],
+    "Ergonomic design for comfort": [
+        [
+            "Handle curvature radius",
+            "mm (millimeters)"
+        ],
+        [
+            "Grip material friction coefficient",
+            "dimensionless"
+        ],
+        [
+            "Handle thermal conductivity",
+            "W/m\u00b7K (Watts per meter-Kelvin)"
+        ]
+    ],
+    "Durable build for frequent use and diverse tasks": [
+        [
+            "Blade hardness",
+            "HRC (Hardness Rockwell C)"
+        ],
+        [
+            "Corrosion resistance rating",
+            "rating scale (1-10)"
+        ],
+        [
+            "Tensile strength of blade",
+            "MPa (Megapascals)"
+        ]
+    ],
+    "Multifunctional capabilities": [
+        [
+            "Number of functions/tools included",
+            "count"
+        ]
+    ],
+    "Robust performance in outdoor conditions": [
+        [
+            "Temperature operational range",
+            "\u00b0C (degrees Celsius)"
+        ],
+        [
+            "Water resistance rating",
+            "IPX (Ingress Protection Index)"
+        ],
+        [
+            "Dust ingress protection rating",
+            "IP (Ingress Protection)"
+        ]
+    ],
+    "Ease of use with intuitive design": [
+        [
+            "Deployment/retraction speed",
+            "seconds"
+        ],
+        [
+            "User force required for deployment/retraction",
+            "N (Newtons)"
+        ]
+    ],
+    "Rugged construction for outdoor use": [
+        [
+            "Impact resistance",
+            "J (joules)"
+        ]
+    ],
+    "Secure grip to prevent slipping": [
+        [
+            "Surface roughness average",
+            "\u00b5m (micrometers)"
+        ]
+    ],
+    "Compact form factor for easy storage and portability": [
+        [
+            "Folded knife dimensions",
+            "mm (millimeters)"
+        ],
+        [
+            "Weight",
+            "g (grams)"
+        ]
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "The Desktop Heaters prioritize safety by including automatic shut-off mechanisms to prevent overheating and fire hazards": [
+        [
+            "Time to automatic shutdown after reaching threshold temperature",
+            "Seconds"
+        ],
+        [
+            "Maximum temperature before automatic shutdown",
+            "\u00b0C"
+        ],
+        [
+            "Circuit breaker capacity",
+            "Amperes"
+        ]
+    ],
+    "The Desktop Heaters feature cool-touch surfaces to prevent burns and enhance user safety": [
+        [
+            "Maximum external surface temperature during operation",
+            "\u00b0C"
+        ],
+        [
+            "Thermal insulation effectiveness",
+            "W/(m\u00b2\u00b7K)"
+        ],
+        [
+            "Surface material heat resistance",
+            "\u00b0C"
+        ],
+        [
+            "Temperature gradient across enclosure",
+            "\u00b0C/cm"
+        ]
+    ],
+    "The Desktop Heaters incorporate robust safety mechanisms such as tip-over protection to prevent accidents": [
+        [
+            "Tip-over response time",
+            "Seconds"
+        ],
+        [
+            "Maximum tilt angle before shutdown",
+            "Degrees"
+        ],
+        [
+            "Tip-over switch mechanical durability",
+            "Cycles"
+        ]
+    ],
+    "The Desktop Heaters feature a thermal cut-off to safeguard against overheating and potential fire hazards": [
+        [
+            "Thermal fuse activation temperature",
+            "\u00b0C"
+        ],
+        [
+            "Thermal cut-off response time",
+            "Seconds"
+        ],
+        [
+            "Redundancy of thermal cutoff systems",
+            "Count"
+        ]
+    ],
+    "Durability and long-lasting performance": [
+        [
+            "Material fatigue resistance",
+            "Cycles before failure"
+        ],
+        [
+            "Thermal cycling endurance",
+            "Cycles (20\u00b0C to max operating temperature)"
+        ],
+        [
+            "Heating element material degradation rate",
+            "% change per 1000 hours"
+        ],
+        [
+            "Corrosion resistance rate",
+            "mm/year"
+        ],
+        [
+            "Impact resistance",
+            "Joules"
+        ],
+        [
+            "UV resistance of housing material",
+            "Delta E color change after 1000 hours"
+        ],
+        [
+            "Oxidation resistance of heating elements",
+            "Weight gain (mg/cm\u00b2)"
+        ],
+        [
+            "Creep resistance under thermal load",
+            "Strain rate (%/1000 hrs)"
+        ],
+        [
+            "Expected product lifespan",
+            "Years"
+        ]
+    ],
+    "Cool-touch surfaces": [
+        [
+            "Heat deflection temperature of outer material",
+            "\u00b0C"
+        ],
+        [
+            "Thermal response time",
+            "Seconds to reach steady state"
+        ],
+        [
+            "Thermal contact resistance at material interfaces",
+            "m\u00b2\u00b7K/W"
+        ],
+        [
+            "Thermal conductivity of external housing",
+            "W/(m\u00b7K)"
+        ]
+    ],
+    "The Desktop Heaters are certified by recognized safety organizations to ensure compliance with stringent safety standards.": [
+        [
+            "Number of safety certifications obtained",
+            "Count"
+        ],
+        [
+            "UL (Underwriters Laboratories) certification status",
+            "Binary (Pass/Fail)"
+        ],
+        [
+            "CE certification status",
+            "Binary (Pass/Fail)"
+        ],
+        [
+            "CSA (Canadian Standards Association) certification status",
+            "Binary (Pass/Fail)"
+        ],
+        [
+            "ETL (Intertek) certification status",
+            "Binary (Pass/Fail)"
+        ],
+        [
+            "Tip-over protection test results",
+            "Binary (Pass/Fail)"
+        ],
+        [
+            "Electrical insulation resistance",
+            "Megaohms"
+        ],
+        [
+            "Fire retardancy of housing material per UL 94 standard",
+            "Flammability classification (V-0, V-1, V-2, etc.)"
+        ],
+        [
+            "Electromagnetic interference emission levels",
+            "dB\u03bcV/m"
+        ],
+        [
+            "Electromagnetic susceptibility tolerance",
+            "Volts/meter"
+        ],
+        [
+            "Percentage of safety documentation requirements fulfilled",
+            "Percentage"
+        ],
+        [
+            "Electrical leakage current",
+            "Milliamperes"
+        ],
+        [
+            "Interval between safety compliance reviews",
+            "Months"
+        ],
+        [
+            "Time to achieve recertification after design changes",
+            "Days"
+        ]
+    ],
+    "The Desktop Heaters offer energy efficiency to minimize operating costs for budget shoppers.": [
+        [
+            "Power consumption at different settings (low/medium/high)",
+            "Watts"
+        ],
+        [
+            "Coefficient of Performance (COP)",
+            "Dimensionless ratio"
+        ],
+        [
+            "Operating cost per hour at average usage",
+            "$/hour"
+        ],
+        [
+            "Payback period compared to conventional heating",
+            "Months"
+        ],
+        [
+            "Standby power consumption",
+            "Watts"
+        ],
+        [
+            "Auto shut-off energy savings",
+            "kWh/month"
+        ],
+        [
+            "Thermal efficiency",
+            "%"
+        ]
+    ],
+    "Excellent value and affordability": [
+        [
+            "Purchase price",
+            "$"
+        ],
+        [
+            "Warranty period",
+            "Years"
+        ],
+        [
+            "Cost per heating BTU",
+            "$/BTU"
+        ],
+        [
+            "Energy efficiency ratio",
+            "%"
+        ]
+    ],
+    "Smart technology integration": [
+        [
+            "Number of automated heating modes",
+            "Count"
+        ],
+        [
+            "Number of compatible smart home platforms",
+            "Count"
+        ],
+        [
+            "Software update frequency",
+            "Updates/year"
+        ],
+        [
+            "Time to market for new feature implementation",
+            "Weeks"
+        ],
+        [
+            "Percentage of industry-standard protocols supported",
+            "%"
+        ],
+        [
+            "Number of programmable settings",
+            "Count"
+        ]
+    ],
+    "Positive customer reviews": [
+        [
+            "Average customer rating",
+            "Stars (1-5)"
+        ],
+        [
+            "Percentage of 4+ star reviews",
+            "%"
+        ],
+        [
+            "Net Promoter Score",
+            "Score (-100 to 100)"
+        ],
+        [
+            "First-year return rate",
+            "%"
+        ]
+    ],
+    "Smart connectivity options": [
+        [
+            "Number of connectivity protocols supported",
+            "Count"
+        ],
+        [
+            "Remote access response time",
+            "Seconds"
+        ],
+        [
+            "API availability for developers",
+            "Yes/No"
+        ],
+        [
+            "Number of third-party integration options",
+            "Count"
+        ]
+    ],
+    "Virtual assistant compatibility": [
+        [
+            "Number of compatible virtual assistants",
+            "Count"
+        ],
+        [
+            "Voice command response time",
+            "Seconds"
+        ],
+        [
+            "Number of voice-controllable functions",
+            "Count"
+        ],
+        [
+            "Voice command recognition accuracy",
+            "%"
+        ]
+    ]
+}

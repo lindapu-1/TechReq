@@ -1,0 +1,318 @@
+{
+    "Ensures user safety with built-in safety mechanisms": [
+        [
+            "Lock mechanism strength",
+            "N (Newtons)"
+        ],
+        [
+            "Safety lock engagement force",
+            "N (Newtons)"
+        ],
+        [
+            "Safety lock disengagement force",
+            "N (Newtons)"
+        ]
+    ],
+    "Ergonomic design for comfort": [
+        [
+            "Handle curvature radius",
+            "mm (millimeters)"
+        ],
+        [
+            "Grip material friction coefficient",
+            "dimensionless"
+        ],
+        [
+            "Handle thermal conductivity",
+            "W/m\u00b7K (Watts per meter-Kelvin)"
+        ]
+    ],
+    "Durable build for frequent use and diverse tasks": [
+        [
+            "Blade hardness",
+            "HRC (Hardness Rockwell C)"
+        ],
+        [
+            "Corrosion resistance rating",
+            "rating scale (1-10)"
+        ],
+        [
+            "Tensile strength of blade",
+            "MPa (Megapascals)"
+        ]
+    ],
+    "Multifunctional capabilities": [
+        [
+            "Number of functions/tools included",
+            "count"
+        ]
+    ],
+    "Robust performance in outdoor conditions": [
+        [
+            "Temperature operational range",
+            "\u00b0C (degrees Celsius)"
+        ],
+        [
+            "Water resistance rating",
+            "IPX (Ingress Protection Index)"
+        ],
+        [
+            "Dust ingress protection rating",
+            "IP (Ingress Protection)"
+        ]
+    ],
+    "Ease of use with intuitive design": [
+        [
+            "Deployment/retraction speed",
+            "seconds"
+        ],
+        [
+            "User force required for deployment/retraction",
+            "N (Newtons)"
+        ]
+    ],
+    "Rugged construction for outdoor use": [
+        [
+            "Impact resistance",
+            "J (joules)"
+        ]
+    ],
+    "Secure grip to prevent slipping": [
+        [
+            "Surface roughness average",
+            "\u00b5m (micrometers)"
+        ]
+    ],
+    "Compact form factor for easy storage and portability": [
+        [
+            "Folded knife dimensions",
+            "mm (millimeters)"
+        ],
+        [
+            "Weight",
+            "g (grams)"
+        ]
+    ],
+    "The Folding Knives provide a durable build that withstands frequent use and diverse tasks for handymen.": [
+        [
+            "Tensile strength of the handle and blade",
+            "Megapascals (MPa)"
+        ],
+        [
+            "Corrosion resistance",
+            "Salt spray hours"
+        ],
+        [
+            "Impact resistance (using specific ASTM testing, e.g., ASTM D256)",
+            "Joules"
+        ],
+        [
+            "Flexural strength of the blade",
+            "Megapascals (MPa)"
+        ]
+    ],
+    "The Folding Knives maintain resilience in harsh outdoor environments.": [
+        [
+            "Material hardness",
+            "Rockwell Hardness Scale (HRC)"
+        ],
+        [
+            "Abrasion resistance (using specific ASTM testing, e.g., ASTM G65)",
+            "ASTM Wear Rate"
+        ],
+        [
+            "UV resistance (specifying exposure method; e.g., ASTM G154)",
+            "Hours to degradation"
+        ],
+        [
+            "Temperature resistance range",
+            "Degrees Celsius (\u00b0C)"
+        ]
+    ],
+    "The Folding Knives incorporate sharp blades that maintain an edge over time.": [
+        [
+            "Edge retention",
+            "Number of cuts before dulling"
+        ],
+        [
+            "Blade wear resistance",
+            "Loss of material (grams or milligrams)"
+        ]
+    ],
+    "The Folding Knives provide a secure grip.": [
+        [
+            "Coefficient of friction of handle",
+            "Dimensionless"
+        ],
+        [
+            "Surface texture of handle",
+            "Micro-scale measurement"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets comply with the latest safety standards and have certifications from recognized safety organizations.": [
+        [
+            "Compliance with latest CPSC safety standards",
+            "Yes/No"
+        ],
+        [
+            "Certification from ASTM International",
+            "Yes/No"
+        ],
+        [
+            "Certification from Snell Memorial Foundation",
+            "Yes/No"
+        ],
+        [
+            "Test results for impact resistance",
+            "Pass/Fail"
+        ],
+        [
+            "Test results for strap retention system",
+            "Pass/Fail"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets include clear labeling of safety certifications to reassure users of the product's reliability.": [
+        [
+            "Presence of safety certification labels",
+            "Yes/No"
+        ],
+        [
+            "Clarity of safety certification information",
+            "1-5 Scale (1 = Illegible, 5 = Perfectly Legible)"
+        ],
+        [
+            "Optimal location of certification labels",
+            "Position (e.g., Visible upon first glance inside the helmet)"
+        ]
+    ],
+    "The Folding Knives enhance cooking efficiency by providing a precision cutting edge that improves culinary performance": [
+        [
+            "Blade sharpness angle",
+            "Degrees"
+        ],
+        [
+            "Cutting force needed",
+            "Newtons"
+        ]
+    ],
+    "The Folding Knives facilitate ease of use with intuitive design features that enable quick deployment and retraction": [
+        [
+            "Time to deploy/retract",
+            "Seconds"
+        ],
+        [
+            "Number of user errors during deployment/retraction",
+            "Count"
+        ],
+        [
+            "Durability test cycles for deployment/retraction",
+            "Number of cycles"
+        ]
+    ],
+    "The Folding Knives offer a compact form factor that allows easy storage and portability without sacrificing functionality": [
+        [
+            "Folded dimensions",
+            "Millimeters"
+        ],
+        [
+            "Weight",
+            "Grams"
+        ]
+    ],
+    "Enhance cooking efficiency": [
+        [
+            "Blade sharpness consistency",
+            "Degree of angle"
+        ],
+        [
+            "Sharpness maintenance over time",
+            "Months"
+        ]
+    ],
+    "Ensure user safety": [
+        [
+            "Safety lock effectiveness",
+            "Lock strength rating"
+        ],
+        [
+            "Ease of safety lock engagement/disengagement",
+            "Effort score"
+        ]
+    ],
+    "Offer ergonomic design": [
+        [
+            "Handle comfort",
+            "Ergonomic rating scale"
+        ],
+        [
+            "Weight distribution",
+            "Balance score"
+        ]
+    ],
+    "Provide durable build": [
+        [
+            "Material tensile strength",
+            "PSI"
+        ],
+        [
+            "Impact resistance",
+            "Impact energy (Joules)"
+        ]
+    ],
+    "Incorporate multifunctional capabilities": [
+        [
+            "Number of functions",
+            "Count"
+        ]
+    ],
+    "Deliver robust performance in outdoor conditions": [
+        [
+            "Blade corrosion resistance",
+            "Rating scale"
+        ]
+    ],
+    "Maintain resilience in harsh environments": [
+        [
+            "Wear resistance",
+            "Abrasion rating"
+        ],
+        [
+            "UV resistance",
+            "UV exposure rating"
+        ]
+    ],
+    "Facilitate ease of use": [
+        [
+            "Deployment speed",
+            "Seconds"
+        ]
+    ],
+    "Feature rugged construction": [
+        [
+            "Construction integrity",
+            "Integrity score"
+        ]
+    ],
+    "Incorporate sharp blades": [
+        [
+            "Edge retention duration",
+            "Months"
+        ]
+    ],
+    "Provide secure grip": [
+        [
+            "Grip friction coefficient",
+            "Coefficient of friction"
+        ]
+    ],
+    "Offer compact form factor": [
+        [
+            "Folded knife dimensions",
+            "Inches/cm"
+        ],
+        [
+            "Weight",
+            "Ounces/grams"
+        ]
+    ]
+}

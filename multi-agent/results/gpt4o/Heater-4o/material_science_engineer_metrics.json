@@ -1,0 +1,34 @@
+{
+    "Ensures durability and long-lasting performance": [
+        [
+            "Material tensile strength (ASTM standard)",
+            "Pa"
+        ],
+        [
+            "Corrosion resistance (Salt Spray Test)",
+            "Hours"
+        ],
+        [
+            "Thermal cycling resistance",
+            "Temperature range (\u00b0C) over cycles"
+        ],
+        [
+            "Wear resistance (abrasion) using ASTM D4060",
+            "Volume loss in mm\u00b3"
+        ]
+    ],
+    "Features cool-touch surfaces to prevent burns and enhance user safety": [
+        [
+            "Surface temperature during operation",
+            "\u00b0C"
+        ],
+        [
+            "Maximum allowable surface temperature for cool-touch",
+            "\u00b0C"
+        ],
+        [
+            "Heat dissipation rate (specify convection type)",
+            "W/m\u00b2"
+        ]
+    ]
+}

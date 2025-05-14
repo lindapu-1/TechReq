@@ -1,0 +1,40 @@
+{
+    "App Control": [
+        [
+            "Compatibility with specific mobile app platforms",
+            "List of supported platforms (e.g., iOS, Android)"
+        ],
+        [
+            "App control range",
+            "Meters"
+        ]
+    ],
+    "Temperature Sensors": [
+        [
+            "Accuracy of temperature sensors",
+            "Degrees Celsius"
+        ],
+        [
+            "Response time to temperature change",
+            "Seconds"
+        ],
+        [
+            "Maximum temperature limit",
+            "Degrees Celsius"
+        ]
+    ],
+    "IoT Connectivity for Personalized Settings": [
+        [
+            "IoT connectivity standard (e.g., Wi-Fi, Bluetooth)",
+            "Type"
+        ],
+        [
+            "Number of device connections supported",
+            "Number of devices"
+        ],
+        [
+            "Data transmission speed",
+            "Mbps"
+        ]
+    ]
+}

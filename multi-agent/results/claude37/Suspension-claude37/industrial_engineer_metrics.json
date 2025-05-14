@@ -1,0 +1,74 @@
+{
+    "The suspension allows easy replacement of worn parts": [
+        [
+            "Mean Time To Replace (MTTR) for worn parts",
+            "Minutes"
+        ],
+        [
+            "Number of fasteners to access worn parts",
+            "Count"
+        ],
+        [
+            "Number of tools required for replacement",
+            "Count"
+        ],
+        [
+            "Force required to disassemble components",
+            "N"
+        ]
+    ],
+    "The suspension can be easily accessed for maintenance": [
+        [
+            "Minimum hand access space dimensions",
+            "mm \u00d7 mm"
+        ],
+        [
+            "Minimum tool access space dimensions",
+            "mm \u00d7 mm"
+        ],
+        [
+            "Number of components that must be removed to access suspension",
+            "Count"
+        ],
+        [
+            "Access time",
+            "Minutes"
+        ]
+    ],
+    "The suspension can be maintained with readily available tools": [
+        [
+            "Percentage of standard tools used",
+            "%"
+        ],
+        [
+            "Maximum torque required for fasteners",
+            "N\u00b7m"
+        ],
+        [
+            "Number of specialized (non-standard) tools required",
+            "Count"
+        ],
+        [
+            "Standard wrench/screwdriver size range required",
+            "mm range"
+        ]
+    ],
+    "The suspension is easy to install": [
+        [
+            "Installation time",
+            "Minutes"
+        ],
+        [
+            "Number of steps in installation procedure",
+            "Count"
+        ],
+        [
+            "Number of people required for installation",
+            "Count"
+        ],
+        [
+            "Installation alignment tolerance",
+            "mm"
+        ]
+    ]
+}

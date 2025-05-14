@@ -1,0 +1,36 @@
+{
+    "The Desktop Heaters offer energy efficiency to minimize operating costs for budget shoppers.": [
+        [
+            "Power consumption at different settings (low/medium/high)",
+            "Watts"
+        ],
+        [
+            "Coefficient of Performance (COP)",
+            "Dimensionless ratio"
+        ],
+        [
+            "Operating cost per hour at average usage",
+            "$/hour"
+        ],
+        [
+            "Payback period compared to conventional heating",
+            "Months"
+        ],
+        [
+            "Standby power consumption",
+            "Watts"
+        ],
+        [
+            "Temperature maintenance efficiency",
+            "kW"
+        ],
+        [
+            "Auto shut-off energy savings",
+            "kWh/month"
+        ],
+        [
+            "Thermal efficiency",
+            "%"
+        ]
+    ]
+}

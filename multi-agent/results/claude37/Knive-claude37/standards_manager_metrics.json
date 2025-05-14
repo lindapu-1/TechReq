@@ -1,0 +1,104 @@
+{
+    "Safety (doesn't close unexpectedly)": [
+        [
+            "Lock failure force",
+            "Newtons (N)"
+        ],
+        [
+            "Lock engagement depth",
+            "Millimeters (mm)"
+        ],
+        [
+            "Lock engagement percentage",
+            "Percentage (%)"
+        ],
+        [
+            "Lock fatigue life",
+            "Number of cycles"
+        ]
+    ],
+    "Sharpness": [
+        [
+            "Edge retention",
+            "Number of standardized cutting cycles before 50% reduction in cutting effectiveness"
+        ],
+        [
+            "Initial cutting ability",
+            "Force required to cut standardized test medium (N)"
+        ],
+        [
+            "Edge angle",
+            "Degrees (\u00b0)"
+        ]
+    ],
+    "Durability": [
+        [
+            "Blade tensile strength",
+            "Megapascals (MPa)"
+        ],
+        [
+            "Impact resistance",
+            "Joules (J)"
+        ],
+        [
+            "Cycles to failure",
+            "Number of cycles"
+        ]
+    ],
+    "Ease of opening/closing": [
+        [
+            "Opening force",
+            "Newtons (N)"
+        ],
+        [
+            "Opening mechanism smoothness",
+            "Variance in opening force (N)"
+        ],
+        [
+            "Number of actions to open/close",
+            "Count"
+        ]
+    ],
+    "Comfortable grip": [
+        [
+            "Grip surface area",
+            "Square centimeters (cm\u00b2)"
+        ],
+        [
+            "Handle pressure points",
+            "Number of high-pressure points at 50N grip force during standardized grip test"
+        ],
+        [
+            "Grip texture coefficient of friction",
+            "Dimensionless ratio"
+        ]
+    ],
+    "Corrosion resistance": [
+        [
+            "Time to visible corrosion in salt spray test",
+            "Hours (h)"
+        ],
+        [
+            "Galvanic potential difference",
+            "Volts (V)"
+        ]
+    ],
+    "Lightweight/portable": [
+        [
+            "Total weight",
+            "Grams (g)"
+        ],
+        [
+            "Closed profile thickness",
+            "Millimeters (mm)"
+        ],
+        [
+            "Closed length to open length ratio",
+            "Dimensionless ratio"
+        ],
+        [
+            "Pocket clip retention force",
+            "Newtons (N)"
+        ]
+    ]
+}

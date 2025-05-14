@@ -1,0 +1,390 @@
+{
+    "The Children's multi-purpose bike helmets incorporate vibrant colors and trendy designs to enhance visual appeal and peer approval among children.": [
+        [
+            "Number of distinct color options available",
+            "Count"
+        ],
+        [
+            "Number of different design themes/patterns",
+            "Count"
+        ],
+        [
+            "Children's preference rating from focus groups",
+            "Scale (1-10)"
+        ],
+        [
+            "Time from trend identification to market availability",
+            "Weeks"
+        ],
+        [
+            "Helmet customization options",
+            "Count"
+        ],
+        [
+            "Seasonal design refresh frequency",
+            "Updates per year"
+        ],
+        [
+            "Color stability under UV exposure",
+            "Hours until 10% color degradation"
+        ],
+        [
+            "Color gamut range",
+            "\u0394E (CIELAB color space)"
+        ],
+        [
+            "Material compatibility with design features",
+            "% of design elements successfully incorporated"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets provide comfort through breathable materials to ensure consistent use.": [
+        [
+            "Water vapor transmission rate",
+            "g/m\u00b2/24hr"
+        ],
+        [
+            "Air permeability",
+            "L/m\u00b2/s"
+        ],
+        [
+            "Thermal resistance",
+            "m\u00b2K/W"
+        ],
+        [
+            "Cushioning efficiency",
+            "% force reduction"
+        ],
+        [
+            "Contact pressure distribution",
+            "kPa variance"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets integrate innovative materials to enhance safety without compromising production efficiency.": [
+        [
+            "Impact energy absorption",
+            "J/kg"
+        ],
+        [
+            "Material fatigue resistance",
+            "Cycles before failure"
+        ],
+        [
+            "Material processing temperature window",
+            "\u00b0C"
+        ],
+        [
+            "Cure/solidification time",
+            "Minutes"
+        ],
+        [
+            "Material yield",
+            "% usable material"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets meet all necessary safety certifications to guarantee protection.": [
+        [
+            "Number of safety certifications obtained",
+            "Count"
+        ],
+        [
+            "Impact absorption performance",
+            "g-force"
+        ],
+        [
+            "Retention system strength",
+            "Newtons"
+        ],
+        [
+            "Coverage area percentage relative to standard requirements",
+            "Percentage"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets adapt easily to new safety regulations to maintain compliance.": [
+        [
+            "Time required to implement design changes for new regulations",
+            "Days"
+        ],
+        [
+            "Cost of regulatory adaptation",
+            "Currency"
+        ],
+        [
+            "Modular components that can be updated",
+            "Count"
+        ],
+        [
+            "Advance notification time before new regulation implementation",
+            "Months"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets come with certifications from recognized safety authorities to meet parental expectations.": [
+        [
+            "Number of recognized safety authority certifications",
+            "Count"
+        ],
+        [
+            "Certification authority international recognition status",
+            "Count of countries"
+        ],
+        [
+            "Visibility of certification markings on product",
+            "Square cm"
+        ],
+        [
+            "Certification information accessibility",
+            "Count of channels"
+        ],
+        [
+            "Percentage of regional safety standards met",
+            "Percentage"
+        ],
+        [
+            "Safety certification display prominence score in marketing materials",
+            "Scale (1-5)"
+        ],
+        [
+            "Time to obtain updated certifications after standards change",
+            "Days"
+        ]
+    ],
+    "Comfort through adjustable straps": [
+        [
+            "Strap adjustment range",
+            "mm"
+        ],
+        [
+            "Strap tension force",
+            "N"
+        ],
+        [
+            "Pressure distribution uniformity",
+            "kPa variance"
+        ],
+        [
+            "Strap padding thickness",
+            "mm"
+        ],
+        [
+            "Ventilation area",
+            "cm\u00b2"
+        ],
+        [
+            "Air flow rate",
+            "m\u00b3/h"
+        ],
+        [
+            "Weight",
+            "g"
+        ]
+    ],
+    "Innovative designs for safety without compromising production efficiency": [
+        [
+            "Production cycle time",
+            "minutes"
+        ],
+        [
+            "Number of manufacturing steps",
+            "count"
+        ],
+        [
+            "Material usage efficiency",
+            "%"
+        ],
+        [
+            "Design modularity",
+            "% of common components"
+        ]
+    ],
+    "Safety features for parental assurance": [
+        [
+            "Impact energy absorption",
+            "J"
+        ],
+        [
+            "Peak acceleration during impact",
+            "g"
+        ],
+        [
+            "Helmet retention force",
+            "N"
+        ],
+        [
+            "Coverage area of protection",
+            "% of head surface"
+        ],
+        [
+            "Number of adjustment points",
+            "count"
+        ],
+        [
+            "Size adjustability range",
+            "cm"
+        ],
+        [
+            "Material hypoallergenic rating",
+            "scale (1-10)"
+        ],
+        [
+            "Reflective surface area",
+            "cm\u00b2"
+        ],
+        [
+            "Visibility distance in low light",
+            "m"
+        ]
+    ],
+    "Helmet provides superior impact protection": [
+        [
+            "Impact deceleration value",
+            "g-force"
+        ],
+        [
+            "Energy absorption efficiency",
+            "joules/cm\u00b3"
+        ]
+    ],
+    "Helmet maintains protection across multiple impact zones": [
+        [
+            "Coverage area ratio (protected area to total area)",
+            "%"
+        ],
+        [
+            "Protection uniformity across impact zones",
+            "% variation"
+        ]
+    ],
+    "Helmet stays securely in place during impacts": [
+        [
+            "Strap retention force",
+            "Newtons"
+        ],
+        [
+            "Slip resistance under load",
+            "degrees of displacement"
+        ]
+    ],
+    "Helmet reduces rotational forces during angled impacts": [
+        [
+            "Rotational acceleration reduction",
+            "rad/s\u00b2"
+        ]
+    ],
+    "Materials optimize strength-to-weight ratio": [
+        [
+            "Material specific strength",
+            "kN\u00b7m/kg"
+        ],
+        [
+            "Density-normalized impact resistance",
+            "joules/kg/m\u00b3"
+        ]
+    ],
+    "Materials maintain integrity in diverse conditions": [
+        [
+            "Temperature stability range",
+            "\u00b0C"
+        ],
+        [
+            "UV degradation resistance",
+            "% strength retention after 500 hours"
+        ],
+        [
+            "Moisture resistance",
+            "% strength retention after exposure"
+        ]
+    ],
+    "Design facilitates effective ventilation": [
+        [
+            "Airflow volume rate",
+            "m\u00b3/min"
+        ],
+        [
+            "Heat dissipation rate",
+            "watts"
+        ]
+    ],
+    "Design accommodates visibility in various conditions": [
+        [
+            "Reflective surface area",
+            "cm\u00b2"
+        ],
+        [
+            "Visibility distance in low light",
+            "meters"
+        ]
+    ],
+    "Design fits growing children comfortably": [
+        [
+            "Adjustment range for head circumference",
+            "cm"
+        ],
+        [
+            "Pressure distribution uniformity",
+            "kPa deviation"
+        ],
+        [
+            "Points of adjustability",
+            "count"
+        ]
+    ],
+    "Design allows for child-friendly operation": [
+        [
+            "Time to secure and adjust properly",
+            "seconds"
+        ],
+        [
+            "Force required for strap adjustment",
+            "Newtons"
+        ]
+    ],
+    "Manufacturing process minimizes cycle time": [
+        [
+            "Total assembly time per unit",
+            "seconds"
+        ],
+        [
+            "Automation integration percentage",
+            "%"
+        ]
+    ],
+    "Manufacturing process maximizes material utilization": [
+        [
+            "Material waste per unit",
+            "grams"
+        ],
+        [
+            "Material utilization efficiency",
+            "%"
+        ]
+    ],
+    "Production system allows rapid changeover": [
+        [
+            "Tooling changeover time",
+            "minutes"
+        ],
+        [
+            "Setup steps required",
+            "count"
+        ]
+    ],
+    "Production system maintains quality consistency": [
+        [
+            "First-pass yield rate",
+            "%"
+        ],
+        [
+            "Defect rate per thousand units",
+            "count/1000 units"
+        ]
+    ],
+    "Production system accommodates multiple helmet sizes": [
+        [
+            "Common parts across size range",
+            "%"
+        ],
+        [
+            "Unique tooling requirements across sizes",
+            "count"
+        ]
+    ]
+}

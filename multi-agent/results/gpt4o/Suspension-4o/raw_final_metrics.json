@@ -1,0 +1,274 @@
+{
+    "The suspension reduces vibration to the hands": [
+        [
+            "Vibration Damping Coefficient",
+            "Dimensionless"
+        ],
+        [
+            "Hand-Arm Vibration Level",
+            "Meters per second squared (m/s\u00b2)"
+        ]
+    ],
+    "The suspension allows easy traversal of slow, difficult terrain": [
+        [
+            "Damping Force",
+            "Newton (N)"
+        ],
+        [
+            "Suspension Travel Speed",
+            "Millimeters per second (mm/s)"
+        ]
+    ],
+    "The suspension enables high-speed descents on bumpy trails": [
+        [
+            "Travel Distance",
+            "Millimeters (mm)"
+        ],
+        [
+            "Compression Rate",
+            "Meters per second (m/s)"
+        ]
+    ],
+    "The suspension allows sensitivity adjustment": [
+        [
+            "Damping Adjustment Levels",
+            "Levels or Clicks"
+        ],
+        [
+            "Preload Adjustment Range",
+            "Percentage (%)"
+        ]
+    ],
+    "The suspension preserves the steering characteristics of the bike": [
+        [
+            "Offset",
+            "Millimeters (mm)"
+        ],
+        [
+            "Trail",
+            "Millimeters (mm)"
+        ]
+    ],
+    "The suspension remains rigid during hard cornering": [
+        [
+            "Lateral Stiffness",
+            "Newton Meter per degree (Nm/\u00b0)"
+        ],
+        [
+            "Torsional Stiffness",
+            "Newton Meter per degree (Nm/\u00b0)"
+        ]
+    ],
+    "The suspension provides stiff mounting points for the brakes": [
+        [
+            "Brake Mount Deflection",
+            "Millimeters (mm)"
+        ],
+        [
+            "Mounting Torque Limit",
+            "Newton Meter (Nm)"
+        ]
+    ],
+    "The suspension fits a wide variety of bikes, wheels, and tires": [
+        [
+            "Axle Compatibility",
+            "Axle Standards"
+        ],
+        [
+            "Compatibility with bike frame sizes",
+            "Range of sizes"
+        ],
+        [
+            "Wheel size compatibility",
+            "Inches"
+        ],
+        [
+            "Tire width compatibility",
+            "Millimeters"
+        ],
+        [
+            "Axle type compatibility",
+            "Standard Types (e.g., Thru-axle, Quick-release)"
+        ]
+    ],
+    "The suspension works with fenders": [
+        [
+            "Fender Mounts",
+            "Yes/No"
+        ],
+        [
+            "Clearance",
+            "Millimeters (mm)"
+        ]
+    ],
+    "The suspension is easy to install": [
+        [
+            "Installation Time",
+            "Minutes"
+        ],
+        [
+            "Number of installation steps",
+            "Count"
+        ],
+        [
+            "Specialized tools required for installation",
+            "Boolean (Yes/No)"
+        ],
+        [
+            "Instruction clarity rating",
+            "Rating scale (1 to 5)"
+        ]
+    ],
+    "The suspension is not contaminated by water": [
+        [
+            "IP Rating (Ingress Protection)",
+            "IP Code"
+        ],
+        [
+            "Waterproof durability after mechanical stress",
+            "Number of cycles or tests passed"
+        ]
+    ],
+    "The suspension is not contaminated by grunge": [
+        [
+            "Seal Effectiveness",
+            "Yes/No"
+        ],
+        [
+            "Seal effectiveness against particles",
+            "Percentage (%)"
+        ],
+        [
+            "Protection range against particle sizes",
+            "micrometers (\u00b5m)"
+        ]
+    ],
+    "The suspension can be easily accessed for maintenance": [
+        [
+            "Maintenance Access Time",
+            "Minutes"
+        ],
+        [
+            "Number of steps to access internal components",
+            "Count"
+        ],
+        [
+            "Access clearance dimensions",
+            "Millimeters"
+        ]
+    ],
+    "The suspension allows easy replacement of worn parts": [
+        [
+            "Replacement Parts Availability",
+            "Yes/No"
+        ],
+        [
+            "Number of standardized parts",
+            "Count"
+        ],
+        [
+            "Time to replace standard parts",
+            "Minutes"
+        ]
+    ],
+    "The suspension can be maintained with readily available tools": [
+        [
+            "Tool Compatibility",
+            "Standard Tools"
+        ],
+        [
+            "Availability of tools among target users",
+            "Percentage"
+        ],
+        [
+            "Compatibility with common tool standards",
+            "Binary/Specification"
+        ]
+    ],
+    "The suspension lasts a long time": [
+        [
+            "Durability Rating",
+            "Cycles"
+        ],
+        [
+            "Service Life",
+            "Hours"
+        ],
+        [
+            "Fatigue resistance",
+            "Number of cycles until failure"
+        ],
+        [
+            "Corrosion resistance",
+            "Salt spray hours (ASTM B117)"
+        ],
+        [
+            "Wear resistance",
+            "Wear rate (mm\u00b3/N\u00b7m)"
+        ]
+    ],
+    "The suspension is safe in a crash": [
+        [
+            "Impact Resistance",
+            "Joules (J)"
+        ],
+        [
+            "Energy absorption capacity",
+            "Joules"
+        ],
+        [
+            "Structural integrity in impact testing",
+            "Pass/Fail"
+        ],
+        [
+            "Safety certifications",
+            "Presence/Absence"
+        ],
+        [
+            "Failure mode analysis",
+            "Descriptive"
+        ]
+    ],
+    "The suspension is lightweight": [
+        [
+            "Material density",
+            "kg/m\u00b3"
+        ],
+        [
+            "Total mass of suspension fork",
+            "kg"
+        ],
+        [
+            "Specific strength (strength-to-weight ratio)",
+            "N\u00b7m/kg"
+        ],
+        [
+            "Suspension weight",
+            "Grams"
+        ]
+    ],
+    "The suspension instills pride": [
+        [
+            "Finish quality",
+            "Qualitative Scale (e.g., 1 to 5)"
+        ],
+        [
+            "Brand reputation score",
+            "Rating"
+        ],
+        [
+            "Customer satisfaction score",
+            "Percentage (%)"
+        ]
+    ],
+    "The suspension is affordable for an amateur enthusiast": [
+        [
+            "Retail price",
+            "Currency (e.g., USD)"
+        ],
+        [
+            "Warranty duration",
+            "Months"
+        ]
+    ]
+}

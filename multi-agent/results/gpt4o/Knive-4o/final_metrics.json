@@ -1,0 +1,116 @@
+{
+    "Ensures user safety with built-in safety mechanisms": [
+        [
+            "Lock mechanism strength",
+            "N (Newtons)"
+        ],
+        [
+            "Safety lock engagement force",
+            "N (Newtons)"
+        ],
+        [
+            "Safety lock effectiveness",
+            "Lock strength rating"
+        ]
+    ],
+    "Ergonomic design for comfort": [
+        [
+            "Grip material friction coefficient",
+            "dimensionless"
+        ]
+    ],
+    "Durable build for frequent use and diverse tasks": [
+        [
+            "Blade hardness",
+            "HRC (Hardness Rockwell C)"
+        ],
+        [
+            "Tensile strength of the handle and blade",
+            "Megapascals (MPa)"
+        ]
+    ],
+    "Multifunctional capabilities": [
+        [
+            "Number of functions/tools included",
+            "count"
+        ]
+    ],
+    "Robust performance in outdoor conditions": [
+        [
+            "Temperature operational range",
+            "\u00b0C (degrees Celsius)"
+        ],
+        [
+            "Corrosion resistance",
+            "Salt spray hours"
+        ]
+    ],
+    "Ease of use with intuitive design": [
+        [
+            "Deployment/retraction speed",
+            "seconds"
+        ]
+    ],
+    "Rugged construction for outdoor use": [
+        [
+            "Impact resistance",
+            "J (joules)"
+        ]
+    ],
+    "Secure grip to prevent slipping": [
+        [
+            "Grip friction coefficient",
+            "Coefficient of friction"
+        ]
+    ],
+    "Compact form factor for easy storage and portability": [
+        [
+            "Folded dimensions",
+            "Millimeters"
+        ],
+        [
+            "Weight",
+            "Grams"
+        ]
+    ],
+    "The Folding Knives provide a durable build that withstands frequent use and diverse tasks for handymen.": [
+        [
+            "Impact resistance (using specific ASTM testing, e.g., ASTM D256)",
+            "Joules"
+        ]
+    ],
+    "The Folding Knives maintain resilience in harsh outdoor environments.": [
+        [
+            "UV resistance (specifying exposure method; e.g., ASTM G154)",
+            "Hours to degradation"
+        ]
+    ],
+    "The Folding Knives incorporate sharp blades that maintain an edge over time.": [
+        [
+            "Edge retention",
+            "Number of cuts before dulling"
+        ],
+        [
+            "Blade wear resistance",
+            "Loss of material (grams or milligrams)"
+        ]
+    ],
+    "The Folding Knives enhance cooking efficiency by providing a precision cutting edge that improves culinary performance": [
+        [
+            "Blade sharpness angle",
+            "Degrees"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets comply with the latest safety standards and have certifications from recognized safety organizations.": [
+        [
+            "Test results for impact resistance",
+            "Pass/Fail"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets include clear labeling of safety certifications to reassure users of the product's reliability.": [
+        [
+            "Presence of safety certification labels",
+            "Yes/No"
+        ]
+    ]
+}

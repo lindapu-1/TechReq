@@ -1,0 +1,44 @@
+{
+    "Innovative materials for enhanced safety": [
+        [
+            "Impact absorption capacity",
+            "Joules"
+        ],
+        [
+            "Material tensile strength",
+            "Megapascals (MPa)"
+        ],
+        [
+            "Material density",
+            "kg/m\u00b3"
+        ]
+    ],
+    "Innovative designs to enhance safety": [
+        [
+            "Aerodynamic coefficient",
+            "Dimensionless"
+        ],
+        [
+            "Coverage area ratio",
+            "Percentage (%)"
+        ],
+        [
+            "Ventilation efficiency",
+            "Liters per minute (L/min)"
+        ]
+    ],
+    "Production efficiency": [
+        [
+            "Manufacturing cycle time",
+            "Seconds per unit"
+        ],
+        [
+            "Material utilization rate",
+            "Percentage (%)"
+        ],
+        [
+            "Scrap rate",
+            "Percentage (%)"
+        ]
+    ]
+}

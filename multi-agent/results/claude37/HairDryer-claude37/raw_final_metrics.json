@@ -1,0 +1,344 @@
+{
+    "Enhance convenience with a compact design and multifunctional capabilities": [
+        [
+            "Total device volume",
+            "cm\u00b3"
+        ],
+        [
+            "Number of heat settings",
+            "count"
+        ],
+        [
+            "Number of speed settings",
+            "count"
+        ],
+        [
+            "Cool shot button actuation force",
+            "Newtons"
+        ],
+        [
+            "Heat distribution uniformity",
+            "\u00b0C variance"
+        ]
+    ],
+    "Lightweight, compact design with dual voltage capability": [
+        [
+            "Total device weight",
+            "grams"
+        ],
+        [
+            "Voltage range",
+            "Volts"
+        ],
+        [
+            "Voltage switch actuation force",
+            "Newtons"
+        ],
+        [
+            "Voltage switch reliability",
+            "cycles before failure"
+        ],
+        [
+            "Packed dimensions",
+            "cm (L\u00d7W\u00d7H)"
+        ]
+    ],
+    "A folding handle or detachable diffuser for enhanced portability": [
+        [
+            "Folded to unfolded volume ratio",
+            "ratio"
+        ],
+        [
+            "Folding mechanism durability",
+            "cycles before failure"
+        ],
+        [
+            "Handle lock strength",
+            "Newtons"
+        ],
+        [
+            "Diffuser attachment/detachment time",
+            "seconds"
+        ],
+        [
+            "Diffuser attachment mechanism strength",
+            "Newtons"
+        ]
+    ],
+    "Overheat protection to prevent potential hazards": [
+        [
+            "Thermal cutoff temperature",
+            "\u00b0C"
+        ],
+        [
+            "Temperature sensor response time",
+            "milliseconds"
+        ],
+        [
+            "Time to thermal cutoff at max setting",
+            "seconds"
+        ],
+        [
+            "Cool-down time before auto-restart",
+            "seconds"
+        ],
+        [
+            "Temperature differential required for restart",
+            "\u00b0C"
+        ]
+    ],
+    "Lightweight materials for compact design": [
+        [
+            "Material density",
+            "g/cm\u00b3"
+        ],
+        [
+            "Specific strength (strength-to-weight ratio)",
+            "MPa/(g/cm\u00b3)"
+        ],
+        [
+            "Minimum viable wall thickness",
+            "mm"
+        ],
+        [
+            "Thermal resistance-to-weight ratio",
+            "(m\u00b2\u00b7K/W)/g"
+        ],
+        [
+            "Material moldability index",
+            "dimensionless (1-10 scale)"
+        ],
+        [
+            "Multi-functionality coefficient",
+            "functions/component"
+        ],
+        [
+            "Heat deflection temperature per unit density",
+            "(\u00b0C\u00b7cm\u00b3)/g"
+        ]
+    ],
+    "Adhere strictly to safety regulations": [
+        [
+            "Electrical insulation resistance",
+            "Megaohms (M\u03a9)"
+        ],
+        [
+            "Maximum surface temperature during operation",
+            "Degrees Celsius (\u00b0C)"
+        ],
+        [
+            "Ground fault leakage current",
+            "Milliamperes (mA)"
+        ],
+        [
+            "Automatic thermal cutoff response time",
+            "Seconds (s)"
+        ],
+        [
+            "Water ingress protection rating",
+            "IP rating scale"
+        ],
+        [
+            "Cord strain relief strength",
+            "Newtons (N)"
+        ],
+        [
+            "Safety warning label compliance",
+            "Binary (Yes/No)"
+        ]
+    ],
+    "Obtain robust safety certifications": [
+        [
+            "UL/ETL certification status",
+            "Binary (Certified/Not certified)"
+        ],
+        [
+            "CE marking certification status",
+            "Binary (Certified/Not certified)"
+        ],
+        [
+            "CCC certification status",
+            "Binary (Certified/Not certified)"
+        ],
+        [
+            "Number of country-specific safety certifications",
+            "Count"
+        ],
+        [
+            "Time to certification approval",
+            "Weeks"
+        ]
+    ],
+    "Comply with international electrical standards": [
+        [
+            "Dual voltage capability",
+            "Binary (Yes/No)"
+        ],
+        [
+            "Voltage compatibility range",
+            "Volts (V)"
+        ],
+        [
+            "Frequency compatibility range",
+            "Hertz (Hz)"
+        ],
+        [
+            "Power consumption variation under different voltages",
+            "Percentage (%)"
+        ],
+        [
+            "RoHS compliance status",
+            "Binary (Compliant/Non-compliant)"
+        ],
+        [
+            "REACH compliance status",
+            "Binary (Compliant/Non-compliant)"
+        ],
+        [
+            "EMC compliance level (electromagnetic interference)",
+            "dB (Decibels)"
+        ],
+        [
+            "Number of compatible plug types or adapters",
+            "Count"
+        ]
+    ],
+    "App Control": [
+        [
+            "App response time",
+            "Milliseconds (ms)"
+        ],
+        [
+            "Number of controllable functions via app",
+            "Count"
+        ],
+        [
+            "App-to-device connection establishment time",
+            "Seconds (s)"
+        ],
+        [
+            "Steps required to access key functions in app",
+            "Count"
+        ],
+        [
+            "App cross-platform compatibility",
+            "Number of OS platforms"
+        ]
+    ],
+    "Temperature Sensors": [
+        [
+            "Temperature measurement accuracy",
+            "Degrees Celsius (\u00b0C)"
+        ],
+        [
+            "Temperature sensor response time",
+            "Seconds (s)"
+        ],
+        [
+            "Temperature variation across airflow area",
+            "Degrees Celsius (\u00b0C)"
+        ],
+        [
+            "Temperature profile accuracy",
+            "Percentage (%)"
+        ],
+        [
+            "Sensor durability (operational lifetime)",
+            "Hours (h)"
+        ]
+    ],
+    "IoT Connectivity": [
+        [
+            "Connection reliability",
+            "Percentage uptime (%)"
+        ],
+        [
+            "Wireless signal range",
+            "Meters (m)"
+        ],
+        [
+            "Time to sync personalized settings between app and device",
+            "Seconds (s)"
+        ],
+        [
+            "Number of user-storable personalized profiles",
+            "Count"
+        ],
+        [
+            "Additional power consumption for IoT functionality",
+            "Watts (W)"
+        ],
+        [
+            "Battery drain impact from IoT features",
+            "Percentage (%)"
+        ],
+        [
+            "Data encryption strength",
+            "Bits"
+        ]
+    ],
+    "Coordinate smart technology integration": [
+        [
+            "Number of smart features integrated",
+            "Count"
+        ],
+        [
+            "Mobile app connectivity success rate",
+            "%"
+        ],
+        [
+            "Smart temperature control functionality test pass rate",
+            "%"
+        ],
+        [
+            "Time to sync with mobile devices",
+            "Seconds"
+        ],
+        [
+            "Cross-platform compatibility",
+            "Number of supported platforms"
+        ],
+        [
+            "Integration milestone achievement rate across supplier teams",
+            "%"
+        ],
+        [
+            "Technology integration schedule variance",
+            "Days"
+        ],
+        [
+            "User satisfaction rating for smart features",
+            "Score (1-10)"
+        ]
+    ],
+    "Ensure adherence to safety standards across various international markets": [
+        [
+            "Number of international certifications obtained",
+            "Count"
+        ],
+        [
+            "Compliance rate with regional electrical standards",
+            "%"
+        ],
+        [
+            "Maximum temperature deviation from safety threshold",
+            "\u00b0C"
+        ],
+        [
+            "Auto shut-off response time",
+            "Seconds"
+        ],
+        [
+            "Number of markets with full compliance documentation",
+            "Count"
+        ],
+        [
+            "Safety compliance traceability completeness",
+            "%"
+        ],
+        [
+            "Time to address safety compliance gaps",
+            "Days"
+        ]
+    ]
+}

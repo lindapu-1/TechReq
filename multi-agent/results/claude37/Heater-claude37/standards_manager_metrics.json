@@ -1,0 +1,72 @@
+{
+    "The Desktop Heaters are certified by recognized safety organizations to ensure compliance with stringent safety standards.": [
+        [
+            "Number of safety certifications obtained",
+            "Count"
+        ],
+        [
+            "UL (Underwriters Laboratories) certification status",
+            "Binary (Pass/Fail)"
+        ],
+        [
+            "CE certification status",
+            "Binary (Pass/Fail)"
+        ],
+        [
+            "CSA (Canadian Standards Association) certification status",
+            "Binary (Pass/Fail)"
+        ],
+        [
+            "ETL (Intertek) certification status",
+            "Binary (Pass/Fail)"
+        ],
+        [
+            "Tip-over protection test results",
+            "Binary (Pass/Fail)"
+        ],
+        [
+            "Thermal cutoff response time",
+            "Seconds"
+        ],
+        [
+            "Maximum surface temperature under normal operation",
+            "Degrees Celsius"
+        ],
+        [
+            "Electrical insulation resistance",
+            "Megaohms"
+        ],
+        [
+            "Fire retardancy of housing material per UL 94 standard",
+            "Flammability classification (V-0, V-1, V-2, etc.)"
+        ],
+        [
+            "Electromagnetic interference emission levels",
+            "dB\u03bcV/m"
+        ],
+        [
+            "Electromagnetic susceptibility tolerance",
+            "Volts/meter"
+        ],
+        [
+            "Percentage of safety documentation requirements fulfilled",
+            "Percentage"
+        ],
+        [
+            "Number of successful safety audit completions",
+            "Count"
+        ],
+        [
+            "Electrical leakage current",
+            "Milliamperes"
+        ],
+        [
+            "Interval between safety compliance reviews",
+            "Months"
+        ],
+        [
+            "Time to achieve recertification after design changes",
+            "Days"
+        ]
+    ]
+}

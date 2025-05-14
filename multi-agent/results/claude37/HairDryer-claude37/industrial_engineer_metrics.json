@@ -1,0 +1,76 @@
+{
+    "App Control": [
+        [
+            "App response time",
+            "Milliseconds (ms)"
+        ],
+        [
+            "Number of controllable functions via app",
+            "Count"
+        ],
+        [
+            "App-to-device connection establishment time",
+            "Seconds (s)"
+        ],
+        [
+            "Steps required to access key functions in app",
+            "Count"
+        ],
+        [
+            "App cross-platform compatibility",
+            "Number of OS platforms"
+        ]
+    ],
+    "Temperature Sensors": [
+        [
+            "Temperature measurement accuracy",
+            "Degrees Celsius (\u00b0C)"
+        ],
+        [
+            "Temperature sensor response time",
+            "Seconds (s)"
+        ],
+        [
+            "Temperature variation across airflow area",
+            "Degrees Celsius (\u00b0C)"
+        ],
+        [
+            "Temperature profile accuracy",
+            "Percentage (%)"
+        ],
+        [
+            "Sensor durability (operational lifetime)",
+            "Hours (h)"
+        ]
+    ],
+    "IoT Connectivity": [
+        [
+            "Connection reliability",
+            "Percentage uptime (%)"
+        ],
+        [
+            "Wireless signal range",
+            "Meters (m)"
+        ],
+        [
+            "Time to sync personalized settings between app and device",
+            "Seconds (s)"
+        ],
+        [
+            "Number of user-storable personalized profiles",
+            "Count"
+        ],
+        [
+            "Additional power consumption for IoT functionality",
+            "Watts (W)"
+        ],
+        [
+            "Battery drain impact from IoT features",
+            "Percentage (%)"
+        ],
+        [
+            "Data encryption strength",
+            "Bits"
+        ]
+    ]
+}

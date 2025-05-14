@@ -1,0 +1,236 @@
+{
+    "The suspension reduces vibration to the hands": [
+        [
+            "Vibration damping ratio",
+            "Dimensionless"
+        ],
+        [
+            "Frequency attenuation range",
+            "Hz"
+        ],
+        [
+            "Hand-arm vibration transmissibility",
+            "%"
+        ]
+    ],
+    "The suspension allows easy traversal of slow, difficult terrain": [
+        [
+            "Minimum activation force",
+            "N"
+        ],
+        [
+            "Progressive spring rate",
+            "N/mm\u00b2"
+        ],
+        [
+            "Small bump sensitivity",
+            "mm/N"
+        ]
+    ],
+    "The suspension enables high-speed descents on bumpy trails": [
+        [
+            "Maximum suspension travel",
+            "mm"
+        ],
+        [
+            "Rebound damping rate",
+            "N\u00b7s/mm"
+        ],
+        [
+            "High-speed compression damping",
+            "N\u00b7s/mm"
+        ],
+        [
+            "Consecutive impact recovery time",
+            "ms"
+        ]
+    ],
+    "The suspension allows sensitivity adjustment": [
+        [
+            "Number of adjustable parameters",
+            "Count"
+        ],
+        [
+            "Adjustment range for compression damping",
+            "N\u00b7s/mm"
+        ],
+        [
+            "Adjustment range for rebound damping",
+            "N\u00b7s/mm"
+        ],
+        [
+            "Adjustment range for spring preload",
+            "mm"
+        ],
+        [
+            "Adjustment tool accessibility rating",
+            "score (1-5)"
+        ]
+    ],
+    "The suspension preserves the steering characteristics of the bike": [
+        [
+            "Lateral stiffness",
+            "N/mm"
+        ],
+        [
+            "Steering axis angle deviation under load",
+            "Degrees"
+        ],
+        [
+            "Trail change under compression",
+            "mm"
+        ]
+    ],
+    "The suspension remains rigid during hard cornering": [
+        [
+            "Torsional stiffness",
+            "N\u00b7m/degree"
+        ],
+        [
+            "Lateral deflection under cornering load",
+            "mm"
+        ]
+    ],
+    "The suspension provides stiff mounting points for the brakes": [
+        [
+            "Brake mount deflection under maximum braking",
+            "mm"
+        ],
+        [
+            "Braking force to mounting point deflection ratio",
+            "N/mm"
+        ]
+    ],
+    "The suspension fits a wide variety of bikes, wheels, and tires": [
+        [
+            "Range of compatible wheel sizes",
+            "inch"
+        ],
+        [
+            "Maximum tire clearance",
+            "mm"
+        ],
+        [
+            "Number of compatible steerer tube standards",
+            "Count"
+        ],
+        [
+            "Axle-to-crown length adjustment range",
+            "mm"
+        ],
+        [
+            "Weight capacity range",
+            "kg"
+        ]
+    ],
+    "The suspension works with fenders": [
+        [
+            "Fender mounting points",
+            "Count"
+        ],
+        [
+            "Clearance for fender installation",
+            "mm"
+        ]
+    ],
+    "The suspension is easy to install": [
+        [
+            "Installation time",
+            "Minutes"
+        ],
+        [
+            "Number of required tools for installation",
+            "Count"
+        ],
+        [
+            "Number of installation steps",
+            "Count"
+        ]
+    ],
+    "The suspension is not contaminated by water": [
+        [
+            "Water ingress protection rating",
+            "IP rating"
+        ],
+        [
+            "Seal water pressure resistance",
+            "kPa"
+        ]
+    ],
+    "The suspension is not contaminated by grunge": [
+        [
+            "Dust/debris intrusion rate",
+            "g/1000 cycles"
+        ],
+        [
+            "Seal lifecycle before contamination",
+            "Cycles"
+        ]
+    ],
+    "The suspension can be easily accessed for maintenance": [
+        [
+            "Time to access internal components",
+            "Minutes"
+        ],
+        [
+            "Number of steps to access internal components",
+            "Count"
+        ]
+    ],
+    "The suspension allows easy replacement of worn parts": [
+        [
+            "Disassembly time for component replacement",
+            "Minutes"
+        ],
+        [
+            "Number of replaceable components",
+            "Count"
+        ]
+    ],
+    "The suspension can be maintained with readily available tools": [
+        [
+            "Percentage of maintenance tasks possible with standard tools",
+            "%"
+        ],
+        [
+            "Number of specialized tools required",
+            "Count"
+        ]
+    ],
+    "The suspension lasts a long time": [
+        [
+            "Cycle life before performance degradation",
+            "Cycles"
+        ],
+        [
+            "Material fatigue resistance",
+            "MPa"
+        ],
+        [
+            "Seal and bushing wear rate",
+            "\u03bcm/1000 cycles"
+        ],
+        [
+            "Environmental temperature operating range",
+            "\u00b0C"
+        ]
+    ],
+    "The suspension is safe in a crash": [
+        [
+            "Impact failure load",
+            "N"
+        ],
+        [
+            "Energy absorption before failure",
+            "J"
+        ],
+        [
+            "Breakaway torque at critical failure points",
+            "N\u00b7m"
+        ],
+        [
+            "Failure mode predictability",
+            "% predictable failures"
+        ]
+    ]
+}

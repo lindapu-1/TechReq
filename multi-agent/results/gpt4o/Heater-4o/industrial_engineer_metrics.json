@@ -1,0 +1,24 @@
+{
+    "Energy efficiency to minimize operating costs": [
+        [
+            "Power Consumption",
+            "Watts (W)"
+        ],
+        [
+            "Heating Efficiency",
+            "Percentage (%)"
+        ],
+        [
+            "Insulation Quality",
+            "R-value"
+        ],
+        [
+            "Timer Settings",
+            "Hours"
+        ],
+        [
+            "Standby Power Consumption",
+            "Watts (W)"
+        ]
+    ]
+}

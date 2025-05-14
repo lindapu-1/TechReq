@@ -1,0 +1,82 @@
+{
+    "The Folding Knives provide a durable build that withstands frequent use and diverse tasks for handymen.": [
+        [
+            "Blade material hardness",
+            "Rockwell HRC"
+        ],
+        [
+            "Pivot mechanism fatigue resistance",
+            "Cycles before failure"
+        ],
+        [
+            "Tensile strength of handle material",
+            "MPa"
+        ],
+        [
+            "Locking mechanism shear strength",
+            "MPa"
+        ],
+        [
+            "Blade material toughness",
+            "J/m\u00b2"
+        ],
+        [
+            "Opening/closing force consistency",
+            "% variation after X cycles"
+        ]
+    ],
+    "The Folding Knives maintain resilience in harsh outdoor environments, resisting wear and tear from natural elements.": [
+        [
+            "Corrosion resistance rating",
+            "Hours in salt spray test"
+        ],
+        [
+            "Pivot mechanism corrosion resistance",
+            "Hours until 10% increase in actuation force"
+        ],
+        [
+            "UV degradation resistance of handle materials",
+            "% retention of properties after X hours exposure"
+        ],
+        [
+            "Operating temperature range",
+            "\u00b0C"
+        ],
+        [
+            "Blade coating adhesion strength",
+            "N/mm\u00b2"
+        ]
+    ],
+    "The Folding Knives incorporate sharp blades that maintain an edge over time, reducing the need for frequent sharpening.": [
+        [
+            "Edge retention",
+            "Number of cutting cycles before 30% reduction in sharpness"
+        ],
+        [
+            "Edge wear resistance",
+            "mm of material loss after standard cutting test"
+        ],
+        [
+            "Abrasion resistance of blade material",
+            "Material volume loss per abrasion cycle (mm\u00b3)"
+        ]
+    ],
+    "The Folding Knives provide a secure grip to prevent slipping during use, enhancing safety and control.": [
+        [
+            "Handle material coefficient of friction",
+            "Dimensionless"
+        ],
+        [
+            "Handle surface texture depth",
+            "\u03bcm"
+        ],
+        [
+            "Wet grip retention",
+            "% friction retention when wet"
+        ],
+        [
+            "Handle material moisture absorption",
+            "% weight gain"
+        ]
+    ]
+}

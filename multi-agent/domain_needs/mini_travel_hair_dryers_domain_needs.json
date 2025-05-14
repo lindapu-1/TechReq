@@ -1,0 +1,39 @@
+{
+    "roles": [
+        {
+            "role": "mechanical_engineer",
+            "needs": [
+                "enhance convenience with a compact design and multifunctional capabilities",
+                "lightweight, compact design with dual voltage capability",
+                "a folding handle or detachable diffuser for enhanced portability",
+                "overheat protection to prevent potential hazards"
+            ]
+        },
+        {
+            "role": "material_science_engineer",
+            "needs": [
+                "lightweight materials for compact design"
+            ]
+        },
+        {
+            "role": "standards_manager",
+            "needs": [
+                "adhere strictly to safety regulations",
+                "obtain robust safety certifications and comply with international electrical standards"
+            ]
+        },
+        {
+            "role": "industrial_engineer",
+            "needs": [
+                "app control, temperature sensors, and IoT connectivity for personalized settings"
+            ]
+        },
+        {
+            "role": "program_manager",
+            "needs": [
+                "coordinate smart technology integration",
+                "ensure adherence to safety standards across various international markets"
+            ]
+        }
+    ]
+}

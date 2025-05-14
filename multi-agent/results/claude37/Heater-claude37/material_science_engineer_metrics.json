@@ -1,0 +1,66 @@
+{
+    "Durability and long-lasting performance": [
+        [
+            "Material fatigue resistance",
+            "Cycles before failure"
+        ],
+        [
+            "Thermal cycling endurance",
+            "Cycles (20\u00b0C to max operating temperature)"
+        ],
+        [
+            "Heating element material degradation rate",
+            "% change per 1000 hours"
+        ],
+        [
+            "Corrosion resistance rate",
+            "mm/year"
+        ],
+        [
+            "Impact resistance",
+            "Joules"
+        ],
+        [
+            "UV resistance of housing material",
+            "Delta E color change after 1000 hours"
+        ],
+        [
+            "Oxidation resistance of heating elements",
+            "Weight gain (mg/cm\u00b2)"
+        ],
+        [
+            "Creep resistance under thermal load",
+            "Strain rate (%/1000 hrs)"
+        ]
+    ],
+    "Cool-touch surfaces": [
+        [
+            "Maximum external surface temperature",
+            "\u00b0C"
+        ],
+        [
+            "Thermal conductivity of external housing",
+            "W/(m\u00b7K)"
+        ],
+        [
+            "Thermal boundary layer thickness",
+            "mm"
+        ],
+        [
+            "Temperature gradient across housing material",
+            "\u00b0C/mm"
+        ],
+        [
+            "Heat deflection temperature of outer material",
+            "\u00b0C"
+        ],
+        [
+            "Thermal response time",
+            "Seconds to reach steady state"
+        ],
+        [
+            "Thermal contact resistance at material interfaces",
+            "m\u00b2\u00b7K/W"
+        ]
+    ]
+}

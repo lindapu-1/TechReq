@@ -1,0 +1,36 @@
+{
+    "The suspension is lightweight": [
+        [
+            "Suspension weight",
+            "Grams"
+        ],
+        [
+            "Material density",
+            "Grams per cubic centimeter (g/cm\u00b3)"
+        ]
+    ],
+    "The suspension instills pride": [
+        [
+            "Finish quality",
+            "Qualitative Scale (e.g., 1 to 5)"
+        ],
+        [
+            "Brand reputation score",
+            "Rating"
+        ],
+        [
+            "Customer satisfaction score",
+            "Percentage (%)"
+        ]
+    ],
+    "The suspension is affordable for an amateur enthusiast": [
+        [
+            "Retail price",
+            "Currency (e.g., USD)"
+        ],
+        [
+            "Warranty duration",
+            "Months"
+        ]
+    ]
+}

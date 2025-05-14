@@ -1,0 +1,42 @@
+{
+    "roles": [
+        {
+            "role": "mechanical_engineer",
+            "needs": [
+                "The Desktop Heaters prioritize safety by including automatic shut-off mechanisms to prevent overheating and fire hazards.",
+                "The Desktop Heaters feature cool-touch surfaces to prevent burns and enhance user safety.",
+                "The Desktop Heaters incorporate robust safety mechanisms such as tip-over protection to prevent accidents.",
+                "The Desktop Heaters feature a thermal cut-off to safeguard against overheating and potential fire hazards."
+            ]
+        },
+        {
+            "role": "material_science_engineer",
+            "needs": [
+                "The Desktop Heaters ensure durability and long-lasting performance to satisfy the needs of budget-conscious consumers.",
+                "The Desktop Heaters feature cool-touch surfaces to prevent burns and enhance user safety."
+            ]
+        },
+        {
+            "role": "standards_manager",
+            "needs": [
+                "The Desktop Heaters are certified by recognized safety organizations to ensure compliance with stringent safety standards."
+            ]
+        },
+        {
+            "role": "industrial_engineer",
+            "needs": [
+                "The Desktop Heaters offer energy efficiency to minimize operating costs for budget shoppers."
+            ]
+        },
+        {
+            "role": "program_manager",
+            "needs": [
+                "The Desktop Heaters provide excellent value by combining affordability with reliable performance, ensuring cost-effectiveness for budget-conscious users.",
+                "The Desktop Heaters incorporate the latest smart technology, including smart controls and home automation integration, to meet the expectations of tech enthusiasts.",
+                "The Desktop Heaters receive positive customer reviews illustrating consistent and satisfactory performance.",
+                "The Desktop Heaters include smart connectivity options and programmable settings to allow customization and convenience for tech-savvy users.",
+                "The Desktop Heaters are compatible with virtual assistants to enhance user convenience and integration into smart home ecosystems."
+            ]
+        }
+    ]
+}

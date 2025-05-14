@@ -1,0 +1,56 @@
+{
+    "The suspension is lightweight": [
+        [
+            "Overall suspension weight",
+            "kg"
+        ],
+        [
+            "Weight of suspension components relative to load capacity",
+            "kg/kg of supported weight"
+        ],
+        [
+            "Percentage weight reduction compared to previous generation",
+            "%"
+        ]
+    ],
+    "The suspension instills pride": [
+        [
+            "Design award nominations/wins",
+            "count per year"
+        ],
+        [
+            "Visual appeal rating from focus groups",
+            "1-10 scale"
+        ],
+        [
+            "Number of customization options",
+            "count"
+        ],
+        [
+            "Social media engagement metrics",
+            "likes/shares/comments per post"
+        ]
+    ],
+    "The suspension is affordable for an amateur enthusiast": [
+        [
+            "Manufacturing cost",
+            "$"
+        ],
+        [
+            "Price point compared to competitor average",
+            "% of competitor average"
+        ],
+        [
+            "Installation time",
+            "hours"
+        ],
+        [
+            "Annual maintenance frequency",
+            "services per year"
+        ],
+        [
+            "Maintenance cost",
+            "$/year"
+        ]
+    ]
+}

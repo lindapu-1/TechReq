@@ -1,0 +1,8 @@
+{
+    "overall": 4.0,
+    "specificity": 5.0,
+    "relevance": 4.0,
+    "non_redundancy": 3.0,
+    "issues": {},
+    "raw_response": "Response(chat_message=TextMessage(source='judge', models_usage=RequestUsage(prompt_tokens=923, completion_tokens=136), metadata={}, content='1. Overall Score: 4/5\\n2. Breakdown:\\n   - Specificity: 5/5\\n   - Relevance: 4/5\\n   - Non-Redundancy: 3/5\\n3. Issues Found:\\n   - Some metrics are more marketing-focused than engineering-focused, such as \"The suspension instills pride\" section.\\n   - There are slight overlaps, particularly in sections relating to stiffness and safety, which could be streamlined into a more cohesive category addressing structural integrity.\\n   - Metrics under the \"installation\" category seem extensive and could be made less redundant with consolidation or focus on the most critical elements for ease of installation.', type='TextMessage'), inner_messages=[])"
+}

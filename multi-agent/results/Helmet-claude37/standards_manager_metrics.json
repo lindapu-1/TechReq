@@ -1,0 +1,56 @@
+{
+    "The Children's multi-purpose bike helmets meet all necessary safety certifications to guarantee protection.": [
+        [
+            "Number of safety certifications obtained",
+            "Count"
+        ],
+        [
+            "Impact absorption performance",
+            "g-force"
+        ],
+        [
+            "Retention system strength",
+            "Newtons"
+        ],
+        [
+            "Coverage area percentage relative to standard requirements",
+            "Percentage"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets adapt easily to new safety regulations to maintain compliance.": [
+        [
+            "Time required to implement design changes for new regulations",
+            "Days"
+        ],
+        [
+            "Cost of regulatory adaptation",
+            "Currency"
+        ],
+        [
+            "Modular components that can be updated",
+            "Count"
+        ],
+        [
+            "Advance notification time before new regulation implementation",
+            "Months"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets come with certifications from recognized safety authorities to meet parental expectations.": [
+        [
+            "Number of recognized safety authority certifications",
+            "Count"
+        ],
+        [
+            "Certification authority international recognition status",
+            "Count of countries"
+        ],
+        [
+            "Visibility of certification markings on product",
+            "Square cm"
+        ],
+        [
+            "Certification information accessibility",
+            "Count of channels"
+        ]
+    ]
+}

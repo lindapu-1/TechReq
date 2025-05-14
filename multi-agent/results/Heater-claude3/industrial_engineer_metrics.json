@@ -1,0 +1,28 @@
+{
+    "The Desktop Heaters offer energy efficiency to minimize operating costs for budget shoppers.": [
+        [
+            "Power consumption at low setting",
+            "Watts"
+        ],
+        [
+            "Power consumption at high setting",
+            "Watts"
+        ],
+        [
+            "Annual electricity cost (2 hrs/day, $0.14/kWh)",
+            "$/year"
+        ],
+        [
+            "Annual electricity cost (4 hrs/day, $0.14/kWh)",
+            "$/year"
+        ],
+        [
+            "Annual electricity cost (8 hrs/day, $0.14/kWh)",
+            "$/year"
+        ],
+        [
+            "Energy efficiency ratio (EER)",
+            "BTU/Watt-hour"
+        ]
+    ]
+}

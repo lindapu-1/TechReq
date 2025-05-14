@@ -1,0 +1,64 @@
+{
+    "The Desktop Heaters provide excellent value by combining affordability with reliable performance, ensuring cost-effectiveness for budget-conscious users.": [
+        [
+            "Retail price",
+            "Dollars"
+        ],
+        [
+            "Cost per hour of operation",
+            "Dollars per hour"
+        ],
+        [
+            "Cost vs. competitor products",
+            "Percentage"
+        ]
+    ],
+    "The Desktop Heaters incorporate the latest smart technology, including smart controls and home automation integration, to meet the expectations of tech enthusiasts.": [
+        [
+            "Number of smart features",
+            "Number"
+        ],
+        [
+            "Types of smart controls",
+            "List"
+        ],
+        [
+            "Compatibility with popular home automation systems",
+            "Yes/No"
+        ]
+    ],
+    "The Desktop Heaters receive positive customer reviews illustrating consistent and satisfactory performance.": [
+        [
+            "Average rating score",
+            "Number"
+        ],
+        [
+            "Percent of 4-5 star reviews",
+            "Percentage"
+        ],
+        [
+            "Net Promoter Score",
+            "NPS Score"
+        ]
+    ],
+    "The Desktop Heaters include smart connectivity options and programmable settings to allow customization and convenience for tech-savvy users.": [
+        [
+            "Number of connectivity options",
+            "Number"
+        ],
+        [
+            "Number of programmable settings",
+            "Number"
+        ],
+        [
+            "Types of customization allowed",
+            "List"
+        ]
+    ],
+    "The Desktop Heaters are compatible with virtual assistants to enhance user convenience and integration into smart home ecosystems.": [
+        [
+            "Compatibility with popular virtual assistants",
+            "List"
+        ]
+    ]
+}

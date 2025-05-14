@@ -1,0 +1,178 @@
+{
+    "Comfort through adjustable straps": [
+        [
+            "Range of strap adjustability",
+            "cm"
+        ],
+        [
+            "Quick-release mechanism efficiency",
+            "seconds"
+        ],
+        [
+            "User comfort feedback rating",
+            "rating scale"
+        ]
+    ],
+    "Innovative designs to enhance safety": [
+        [
+            "Aerodynamic drag coefficient",
+            "unitless"
+        ],
+        [
+            "Material weight efficiency",
+            "grams"
+        ],
+        [
+            "Aerodynamic coefficient",
+            "Dimensionless"
+        ],
+        [
+            "Coverage area ratio",
+            "Percentage (%)"
+        ],
+        [
+            "Ventilation efficiency",
+            "Liters per minute (L/min)"
+        ]
+    ],
+    "Prioritize safety features for parental assurance": [
+        [
+            "Impact resistance rating",
+            "J"
+        ],
+        [
+            "Perimeter coverage",
+            "percentage"
+        ],
+        [
+            "Chin strap safety strength",
+            "N"
+        ],
+        [
+            "Rotational stability test",
+            "degrees"
+        ]
+    ],
+    "Incorporate vibrant colors and trendy designs": [
+        [
+            "Color Fastness",
+            "Grade (1 to 5)"
+        ],
+        [
+            "Pattern Precision",
+            "Millimeters (mm)"
+        ]
+    ],
+    "Provide comfort through breathable materials": [
+        [
+            "Air Permeability",
+            "mm/s"
+        ],
+        [
+            "Moisture-Wicking Ability",
+            "g/m\u00b2"
+        ]
+    ],
+    "Integrate innovative materials to enhance safety": [
+        [
+            "Impact Absorption",
+            "Joules (J)"
+        ],
+        [
+            "Material Density",
+            "kg/m\u00b3"
+        ],
+        [
+            "Tensile Strength",
+            "MegaPascals (MPa)"
+        ],
+        [
+            "Manufacturing Time",
+            "Minutes"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets meet all necessary safety certifications to guarantee protection.": [
+        [
+            "Safety certification compliance",
+            "Yes/No"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets adapt easily to new safety regulations to maintain compliance.": [
+        [
+            "Time to adapt to new regulations",
+            "Days"
+        ],
+        [
+            "Number of updates to the safety standard integrated",
+            "Count"
+        ],
+        [
+            "Frequency of review for new regulations",
+            "Times per year"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets come with certifications from recognized safety authorities to meet parental expectations.": [
+        [
+            "Number of recognized certifications",
+            "Count"
+        ],
+        [
+            "Number of safety certifications",
+            "Count"
+        ],
+        [
+            "List of certifying bodies",
+            "Text/List"
+        ],
+        [
+            "Duration of certification validity",
+            "Years"
+        ]
+    ],
+    "Production efficiency": [
+        [
+            "Manufacturing cycle time",
+            "Seconds per unit"
+        ],
+        [
+            "Material utilization rate",
+            "Percentage (%)"
+        ],
+        [
+            "Scrap rate",
+            "Percentage (%)"
+        ]
+    ],
+    "The Children's multi-purpose bike helmets incorporate vibrant colors and trendy designs to enhance visual appeal and peer approval among children": [
+        [
+            "Number of available color options",
+            "Count"
+        ],
+        [
+            "Number of design variations",
+            "Count"
+        ],
+        [
+            "Survey results on visual appeal",
+            "Percentage or Rating scale (e.g., 1 to 5)"
+        ],
+        [
+            "Color fastness rating (ISO 105-B02)",
+            "Rating scale"
+        ]
+    ],
+    "Innovative materials for enhanced safety": [
+        [
+            "Impact absorption capacity",
+            "Joules"
+        ],
+        [
+            "Material tensile strength",
+            "Megapascals (MPa)"
+        ],
+        [
+            "Material density",
+            "kg/m\u00b3"
+        ]
+    ]
+}

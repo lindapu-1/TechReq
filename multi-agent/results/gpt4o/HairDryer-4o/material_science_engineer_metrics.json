@@ -1,0 +1,20 @@
+{
+    "Lightweight materials for compact design": [
+        [
+            "Density",
+            "g/cm\u00b3"
+        ],
+        [
+            "Tensile strength",
+            "MPa"
+        ],
+        [
+            "Elastic Modulus",
+            "GPa"
+        ],
+        [
+            "Specific Strength",
+            "kNm/kg"
+        ]
+    ]
+}

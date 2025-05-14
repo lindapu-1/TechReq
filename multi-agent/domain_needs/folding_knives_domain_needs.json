@@ -1,0 +1,46 @@
+{
+    "roles": [
+        {
+            "role": "mechanical_engineer",
+            "needs": [
+                "The Folding Knives offer precision cutting capabilities for accurate culinary tasks.",
+                "The Folding Knives provide superior handling to ensure safe use in culinary settings.",
+                "The Folding Knives maintain balance for effective culinary performance.",
+                "The Folding Knives deploy rapidly to meet the time-critical needs of emergency situations.",
+                "The Folding Knives ensure reliability under high-stress emergency conditions.",
+                "The Folding Knives are intuitive to use for immediate deployment in emergencies.",
+                "The Folding Knives withstand the rigors of outdoor environments to ensure durability.",
+                "The Folding Knives maintain efficiency during prolonged outdoor activities."
+            ]
+        },
+        {
+            "role": "material_science_engineer",
+            "needs": [
+                "The Folding Knives withstand the rigors of outdoor environments to ensure durability.",
+                "The Folding Knives enhance safety and reliability for outdoor enthusiasts."
+            ]
+        },
+        {
+            "role": "standards_manager",
+            "needs": [
+                "The Folding Knives provide superior handling to ensure safe use in culinary settings.",
+                "The Folding Knives enhance safety and reliability for outdoor enthusiasts."
+            ]
+        },
+        {
+            "role": "industrial_engineer",
+            "needs": [
+                "The Folding Knives offer precision cutting capabilities for accurate culinary tasks.",
+                "The Folding Knives maintain balance for effective culinary performance."
+            ]
+        },
+        {
+            "role": "program_manager",
+            "needs": [
+                "The Folding Knives deploy rapidly to meet the time-critical needs of emergency situations.",
+                "The Folding Knives ensure reliability under high-stress emergency conditions.",
+                "The Folding Knives are intuitive to use for immediate deployment in emergencies."
+            ]
+        }
+    ]
+}

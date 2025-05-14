@@ -1,0 +1,178 @@
+{
+    "Enhance convenience with a compact design and multifunctional capabilities": [
+        [
+            "Dimensions of the dryer",
+            "cm"
+        ],
+        [
+            "Number of heat settings",
+            "count"
+        ],
+        [
+            "Number of speed settings",
+            "count"
+        ],
+        [
+            "Ergonomic design rating",
+            "subjective rating"
+        ]
+    ],
+    "Lightweight, compact design with dual voltage capability": [
+        [
+            "Weight of the dryer",
+            "grams"
+        ],
+        [
+            "Voltage compatibility range",
+            "volts"
+        ],
+        [
+            "Volume of the dryer",
+            "cubic cm"
+        ]
+    ],
+    "A folding handle or detachable diffuser for enhanced portability": [
+        [
+            "Availability of folding mechanism",
+            "binary (yes/no)"
+        ],
+        [
+            "Availability of detachable parts",
+            "binary (yes/no)"
+        ],
+        [
+            "Ease of assembly/disassembly time",
+            "seconds"
+        ]
+    ],
+    "Overheat protection to prevent potential hazards": [
+        [
+            "Temperature cut-off threshold",
+            "\u00b0C"
+        ],
+        [
+            "Time to auto-shutdown in case of overheating",
+            "seconds"
+        ],
+        [
+            "Reset time after shutdown",
+            "seconds"
+        ]
+    ],
+    "Lightweight materials for compact design": [
+        [
+            "Density",
+            "g/cm\u00b3"
+        ],
+        [
+            "Tensile strength",
+            "MPa"
+        ],
+        [
+            "Elastic Modulus",
+            "GPa"
+        ],
+        [
+            "Specific Strength",
+            "kNm/kg"
+        ]
+    ],
+    "App Control": [
+        [
+            "Compatibility with specific mobile app platforms",
+            "List of supported platforms (e.g., iOS, Android)"
+        ],
+        [
+            "App control range",
+            "Meters"
+        ]
+    ],
+    "Temperature Sensors": [
+        [
+            "Accuracy of temperature sensors",
+            "Degrees Celsius"
+        ],
+        [
+            "Response time to temperature change",
+            "Seconds"
+        ],
+        [
+            "Maximum temperature limit",
+            "Degrees Celsius"
+        ]
+    ],
+    "IoT Connectivity for Personalized Settings": [
+        [
+            "IoT connectivity standard (e.g., Wi-Fi, Bluetooth)",
+            "Type"
+        ],
+        [
+            "Number of device connections supported",
+            "Number of devices"
+        ],
+        [
+            "Data transmission speed",
+            "Mbps"
+        ]
+    ],
+    "Coordinate smart technology integration": [
+        [
+            "Compatibility with various smart home systems",
+            "Supported systems"
+        ],
+        [
+            "Connectivity options",
+            "Types (Bluetooth, Wi-Fi)"
+        ],
+        [
+            "Ease of smart app integration",
+            "Steps required"
+        ],
+        [
+            "Time taken for integration",
+            "Minutes"
+        ],
+        [
+            "User satisfaction during integration",
+            "Satisfaction Score (1-10)"
+        ]
+    ],
+    "Adherence to safety standards and certifications": [
+        [
+            "Compliance with IEC 60335-2-23 Overheat Protection Standards",
+            "Yes/No"
+        ],
+        [
+            "Presence of Critical Safety Certifications (e.g., ETL, UL, CE)",
+            "Yes/No"
+        ],
+        [
+            "Certification from Specific International Standards (e.g., ISO 9001, IEC 60204)",
+            "Yes/No"
+        ],
+        [
+            "Compliance with Defined EMC Standards (e.g., CISPR 14-1)",
+            "Yes/No"
+        ],
+        [
+            "Compliance with regional electrical safety standards",
+            "Standards met (e.g., CE, UL, CCC)"
+        ],
+        [
+            "Voltage compatibility",
+            "Voltage range"
+        ],
+        [
+            "Heat protection mechanisms",
+            "Types of safety features"
+        ],
+        [
+            "Overheat prevention performance",
+            "Response time (seconds)"
+        ],
+        [
+            "Durability of safety features under various conditions",
+            "Test hours"
+        ]
+    ]
+}

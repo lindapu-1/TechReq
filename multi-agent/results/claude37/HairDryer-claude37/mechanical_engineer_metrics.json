@@ -1,0 +1,90 @@
+{
+    "Enhance convenience with a compact design and multifunctional capabilities": [
+        [
+            "Total device volume",
+            "cm\u00b3"
+        ],
+        [
+            "Number of heat settings",
+            "count"
+        ],
+        [
+            "Number of speed settings",
+            "count"
+        ],
+        [
+            "Cool shot button actuation force",
+            "Newtons"
+        ],
+        [
+            "Heat distribution uniformity",
+            "\u00b0C variance"
+        ]
+    ],
+    "Lightweight, compact design with dual voltage capability": [
+        [
+            "Total device weight",
+            "grams"
+        ],
+        [
+            "Voltage range",
+            "Volts"
+        ],
+        [
+            "Voltage switch actuation force",
+            "Newtons"
+        ],
+        [
+            "Voltage switch reliability",
+            "cycles before failure"
+        ],
+        [
+            "Packed dimensions",
+            "cm (L\u00d7W\u00d7H)"
+        ]
+    ],
+    "A folding handle or detachable diffuser for enhanced portability": [
+        [
+            "Folded to unfolded volume ratio",
+            "ratio"
+        ],
+        [
+            "Folding mechanism durability",
+            "cycles before failure"
+        ],
+        [
+            "Handle lock strength",
+            "Newtons"
+        ],
+        [
+            "Diffuser attachment/detachment time",
+            "seconds"
+        ],
+        [
+            "Diffuser attachment mechanism strength",
+            "Newtons"
+        ]
+    ],
+    "Overheat protection to prevent potential hazards": [
+        [
+            "Thermal cutoff temperature",
+            "\u00b0C"
+        ],
+        [
+            "Temperature sensor response time",
+            "milliseconds"
+        ],
+        [
+            "Time to thermal cutoff at max setting",
+            "seconds"
+        ],
+        [
+            "Cool-down time before auto-restart",
+            "seconds"
+        ],
+        [
+            "Temperature differential required for restart",
+            "\u00b0C"
+        ]
+    ]
+}

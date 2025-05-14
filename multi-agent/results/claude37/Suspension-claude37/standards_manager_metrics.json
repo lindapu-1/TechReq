@@ -1,0 +1,76 @@
+{
+    "The suspension fits a wide variety of bikes, wheels, and tires": [
+        [
+            "Compatible bike frame types",
+            "Number of types"
+        ],
+        [
+            "Range of wheel sizes supported",
+            "Inches"
+        ],
+        [
+            "Range of tire widths supported",
+            "mm"
+        ],
+        [
+            "Axle standard compatibility",
+            "Number of standards"
+        ],
+        [
+            "Fork steerer tube compatibility",
+            "Number of types"
+        ]
+    ],
+    "The suspension is easy to install": [
+        [
+            "Number of tools required",
+            "Count"
+        ],
+        [
+            "Number of installation steps",
+            "Count"
+        ],
+        [
+            "Skill level required",
+            "Scale (1-5)"
+        ],
+        [
+            "Clarity of installation instructions",
+            "Rating scale (1-5)"
+        ],
+        [
+            "Average installation time for novice user",
+            "Minutes"
+        ]
+    ],
+    "The suspension is safe in a crash": [
+        [
+            "Impact resistance",
+            "Joules"
+        ],
+        [
+            "Failure load",
+            "Newtons"
+        ],
+        [
+            "Controlled deformation pattern",
+            "mm of deformation before failure"
+        ],
+        [
+            "Compliance with ISO 4210 (bicycle safety)",
+            "Pass/Fail"
+        ],
+        [
+            "Compliance with ASTM F2043-13 (mountain bike classification)",
+            "Pass/Fail"
+        ],
+        [
+            "Material yield strength",
+            "MPa"
+        ],
+        [
+            "Presence of failsafe mechanisms",
+            "Binary (Yes/No) per mechanism type"
+        ]
+    ]
+}

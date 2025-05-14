@@ -1,0 +1,88 @@
+{
+    "Adhere strictly to safety regulations": [
+        [
+            "Electrical insulation resistance",
+            "Megaohms (M\u03a9)"
+        ],
+        [
+            "Maximum surface temperature during operation",
+            "Degrees Celsius (\u00b0C)"
+        ],
+        [
+            "Ground fault leakage current",
+            "Milliamperes (mA)"
+        ],
+        [
+            "Automatic thermal cutoff response time",
+            "Seconds (s)"
+        ],
+        [
+            "Water ingress protection rating",
+            "IP rating scale"
+        ],
+        [
+            "Cord strain relief strength",
+            "Newtons (N)"
+        ],
+        [
+            "Safety warning label compliance",
+            "Binary (Yes/No)"
+        ]
+    ],
+    "Obtain robust safety certifications": [
+        [
+            "UL/ETL certification status",
+            "Binary (Certified/Not certified)"
+        ],
+        [
+            "CE marking certification status",
+            "Binary (Certified/Not certified)"
+        ],
+        [
+            "CCC certification status",
+            "Binary (Certified/Not certified)"
+        ],
+        [
+            "Number of country-specific safety certifications",
+            "Count"
+        ],
+        [
+            "Time to certification approval",
+            "Weeks"
+        ]
+    ],
+    "Comply with international electrical standards": [
+        [
+            "Dual voltage capability",
+            "Binary (Yes/No)"
+        ],
+        [
+            "Voltage compatibility range",
+            "Volts (V)"
+        ],
+        [
+            "Frequency compatibility range",
+            "Hertz (Hz)"
+        ],
+        [
+            "Power consumption variation under different voltages",
+            "Percentage (%)"
+        ],
+        [
+            "RoHS compliance status",
+            "Binary (Compliant/Non-compliant)"
+        ],
+        [
+            "REACH compliance status",
+            "Binary (Compliant/Non-compliant)"
+        ],
+        [
+            "EMC compliance level (electromagnetic interference)",
+            "dB (Decibels)"
+        ],
+        [
+            "Number of compatible plug types or adapters",
+            "Count"
+        ]
+    ]
+}

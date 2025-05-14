@@ -1,0 +1,32 @@
+{
+    "The Desktop Heaters are certified by recognized safety organizations to ensure compliance with stringent safety standards.": [
+        [
+            "Certification Status",
+            "Yes/No"
+        ],
+        [
+            "Standards Met",
+            "List of Standards"
+        ],
+        [
+            "Frequency of Inspection",
+            "Times/year"
+        ],
+        [
+            "Type of Inspection",
+            "Internal/External"
+        ],
+        [
+            "Number of Safety Features",
+            "Count"
+        ],
+        [
+            "Overheat Protection",
+            "Yes/No"
+        ],
+        [
+            "Tip-Over Switch",
+            "Yes/No"
+        ]
+    ]
+}

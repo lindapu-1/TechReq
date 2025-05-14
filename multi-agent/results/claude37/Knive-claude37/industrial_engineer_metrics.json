@@ -1,0 +1,100 @@
+{
+    "The Folding Knives enhance cooking efficiency by providing a precision cutting edge that improves culinary performance": [
+        [
+            "Blade hardness",
+            "Rockwell C scale (HRC)"
+        ],
+        [
+            "Edge retention",
+            "Number of standardized cuts before 20% performance reduction"
+        ],
+        [
+            "Cutting force required",
+            "Newtons (N)"
+        ],
+        [
+            "Blade thickness at cutting edge",
+            "Millimeters (mm)"
+        ],
+        [
+            "Blade angle consistency",
+            "Degrees (\u00b0)"
+        ],
+        [
+            "Edge roughness",
+            "Micrometers (\u03bcm)"
+        ],
+        [
+            "Cutting precision deviation",
+            "Millimeters (mm)"
+        ]
+    ],
+    "The Folding Knives facilitate ease of use with intuitive design features that enable quick deployment and retraction": [
+        [
+            "Deployment time",
+            "Seconds (s)"
+        ],
+        [
+            "Force required to deploy/retract",
+            "Newtons (N)"
+        ],
+        [
+            "Number of steps to deploy/retract",
+            "Count"
+        ],
+        [
+            "Grip surface area",
+            "Square centimeters (cm\u00b2)"
+        ],
+        [
+            "Grip texture depth",
+            "Millimeters (mm)"
+        ],
+        [
+            "Grip slip resistance",
+            "Coefficient of friction"
+        ],
+        [
+            "Locking mechanism strength",
+            "Newtons (N)"
+        ],
+        [
+            "Lock failure rate",
+            "Failures per 10,000 cycles"
+        ]
+    ],
+    "The Folding Knives offer a compact form factor that allows easy storage and portability without sacrificing functionality": [
+        [
+            "Folded thickness",
+            "Millimeters (mm)"
+        ],
+        [
+            "Folded length",
+            "Millimeters (mm)"
+        ],
+        [
+            "Folded width",
+            "Millimeters (mm)"
+        ],
+        [
+            "Weight",
+            "Grams (g)"
+        ],
+        [
+            "Volume ratio (deployed:folded)",
+            "Ratio"
+        ],
+        [
+            "Pocket clip retention force",
+            "Newtons (N)"
+        ],
+        [
+            "Folding mechanism durability",
+            "Number of cycles before failure"
+        ],
+        [
+            "Resistance to folding mechanism wear",
+            "Material loss in milligrams after 5,000 cycles"
+        ]
+    ]
+}

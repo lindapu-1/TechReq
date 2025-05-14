@@ -1,0 +1,156 @@
+{
+    "Helmet provides superior impact protection": [
+        [
+            "Impact deceleration value",
+            "g-force"
+        ],
+        [
+            "Energy absorption efficiency",
+            "joules/cm\u00b3"
+        ]
+    ],
+    "Helmet maintains protection across multiple impact zones": [
+        [
+            "Coverage area ratio (protected area to total area)",
+            "%"
+        ],
+        [
+            "Protection uniformity across impact zones",
+            "% variation"
+        ]
+    ],
+    "Helmet stays securely in place during impacts": [
+        [
+            "Strap retention force",
+            "Newtons"
+        ],
+        [
+            "Slip resistance under load",
+            "degrees of displacement"
+        ]
+    ],
+    "Helmet reduces rotational forces during angled impacts": [
+        [
+            "Rotational acceleration reduction",
+            "rad/s\u00b2"
+        ]
+    ],
+    "Materials optimize strength-to-weight ratio": [
+        [
+            "Material specific strength",
+            "kN\u00b7m/kg"
+        ],
+        [
+            "Density-normalized impact resistance",
+            "joules/kg/m\u00b3"
+        ]
+    ],
+    "Materials maintain integrity in diverse conditions": [
+        [
+            "Temperature stability range",
+            "\u00b0C"
+        ],
+        [
+            "UV degradation resistance",
+            "% strength retention after 500 hours"
+        ],
+        [
+            "Moisture resistance",
+            "% strength retention after exposure"
+        ]
+    ],
+    "Design facilitates effective ventilation": [
+        [
+            "Airflow volume rate",
+            "m\u00b3/min"
+        ],
+        [
+            "Heat dissipation rate",
+            "watts"
+        ]
+    ],
+    "Design accommodates visibility in various conditions": [
+        [
+            "Reflective surface area",
+            "cm\u00b2"
+        ],
+        [
+            "Visibility distance in low light",
+            "meters"
+        ]
+    ],
+    "Design fits growing children comfortably": [
+        [
+            "Adjustment range for head circumference",
+            "cm"
+        ],
+        [
+            "Pressure distribution uniformity",
+            "kPa deviation"
+        ],
+        [
+            "Points of adjustability",
+            "count"
+        ]
+    ],
+    "Design allows for child-friendly operation": [
+        [
+            "Time to secure and adjust properly",
+            "seconds"
+        ],
+        [
+            "Force required for strap adjustment",
+            "Newtons"
+        ]
+    ],
+    "Manufacturing process minimizes cycle time": [
+        [
+            "Total assembly time per unit",
+            "seconds"
+        ],
+        [
+            "Automation integration percentage",
+            "%"
+        ]
+    ],
+    "Manufacturing process maximizes material utilization": [
+        [
+            "Material waste per unit",
+            "grams"
+        ],
+        [
+            "Material utilization efficiency",
+            "%"
+        ]
+    ],
+    "Production system allows rapid changeover": [
+        [
+            "Tooling changeover time",
+            "minutes"
+        ],
+        [
+            "Setup steps required",
+            "count"
+        ]
+    ],
+    "Production system maintains quality consistency": [
+        [
+            "First-pass yield rate",
+            "%"
+        ],
+        [
+            "Defect rate per thousand units",
+            "count/1000 units"
+        ]
+    ],
+    "Production system accommodates multiple helmet sizes": [
+        [
+            "Common parts across size range",
+            "%"
+        ],
+        [
+            "Unique tooling requirements across sizes",
+            "count"
+        ]
+    ]
+}

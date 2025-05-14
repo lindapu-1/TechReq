@@ -1,0 +1,44 @@
+{
+    "Comfort through adjustable straps": [
+        [
+            "Range of strap adjustability",
+            "cm"
+        ],
+        [
+            "Quick-release mechanism efficiency",
+            "seconds"
+        ],
+        [
+            "User comfort feedback rating",
+            "rating scale"
+        ]
+    ],
+    "Innovative designs to enhance safety": [
+        [
+            "Aerodynamic drag coefficient",
+            "unitless"
+        ],
+        [
+            "Material weight efficiency",
+            "grams"
+        ]
+    ],
+    "Prioritize safety features for parental assurance": [
+        [
+            "Impact resistance rating",
+            "J"
+        ],
+        [
+            "Perimeter coverage",
+            "percentage"
+        ],
+        [
+            "Chin strap safety strength",
+            "N"
+        ],
+        [
+            "Rotational stability test",
+            "degrees"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "The suspension is lightweight": [
+        [
+            "Total mass of suspension assembly",
+            "g"
+        ],
+        [
+            "Specific strength (strength-to-weight ratio)",
+            "MPa/(g/cm\u00b3)"
+        ]
+    ],
+    "The suspension is not contaminated by water": [
+        [
+            "Water contact angle",
+            "degrees"
+        ],
+        [
+            "Moisture absorption rate",
+            "% mass increase over 24h"
+        ]
+    ],
+    "The suspension is not contaminated by grunge": [
+        [
+            "Surface roughness",
+            "\u03bcm (Ra value)"
+        ],
+        [
+            "Dust particle retention",
+            "mg/cm\u00b2"
+        ]
+    ],
+    "The suspension lasts a long time": [
+        [
+            "Thermal cycling durability",
+            "cycles to failure"
+        ],
+        [
+            "Material creep rate at operating temperature",
+            "%/1000 hours"
+        ],
+        [
+            "Corrosion resistance",
+            "mm/year"
+        ]
+    ]
+}

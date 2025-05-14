@@ -1,0 +1,136 @@
+{
+    "Safety Features": [
+        [
+            "Automatic Shut-Off Activation",
+            "True/False"
+        ],
+        [
+            "Shut-Off Response Time",
+            "Seconds"
+        ],
+        [
+            "Surface Temperature Safety",
+            "Degrees Celsius/Fahrenheit"
+        ],
+        [
+            "Heat dissipation rate",
+            "W/m\u00b2"
+        ],
+        [
+            "Tip-Over Activation Mechanism",
+            "Response Time (seconds)"
+        ],
+        [
+            "Thermal Cut-Off Activation Temperature",
+            "Degrees Celsius/Fahrenheit"
+        ],
+        [
+            "Thermal Cut-Off Durability",
+            "Number of Cycles"
+        ]
+    ],
+    "Durability": [
+        [
+            "Material tensile strength (ASTM standard)",
+            "Pa"
+        ],
+        [
+            "Corrosion resistance (Salt Spray Test)",
+            "Hours"
+        ],
+        [
+            "Thermal cycling resistance",
+            "Temperature range (\u00b0C) over cycles"
+        ],
+        [
+            "Wear resistance (abrasion) using ASTM D4060",
+            "Volume loss in mm\u00b3"
+        ]
+    ],
+    "Certification and Compliance": [
+        [
+            "Certification Status",
+            "Yes/No"
+        ],
+        [
+            "Standards Met",
+            "List of Standards"
+        ],
+        [
+            "Frequency of Inspection",
+            "Times/year"
+        ],
+        [
+            "Type of Inspection",
+            "Internal/External"
+        ],
+        [
+            "Number of Safety Features",
+            "Count"
+        ],
+        [
+            "Overheat Protection",
+            "Yes/No"
+        ]
+    ],
+    "Energy Efficiency": [
+        [
+            "Power Consumption",
+            "Watts (W)"
+        ],
+        [
+            "Heating Efficiency",
+            "Percentage (%)"
+        ],
+        [
+            "Insulation Quality",
+            "R-value"
+        ],
+        [
+            "Timer Settings",
+            "Hours"
+        ]
+    ],
+    "Cost Effectiveness": [
+        [
+            "Initial purchase cost",
+            "USD"
+        ],
+        [
+            "Performance reliability rating",
+            "Rating Scale (1-10)"
+        ],
+        [
+            "Warranty period",
+            "Years"
+        ]
+    ],
+    "Smart Technology": [
+        [
+            "Number of smart control features",
+            "Count"
+        ],
+        [
+            "Home automation integration capability",
+            "Compatible Platforms"
+        ],
+        [
+            "Number of programmable settings",
+            "Count"
+        ],
+        [
+            "Types of connectivity options",
+            "List of Connectivity Types"
+        ],
+        [
+            "Key compatible platforms",
+            "List of Platforms"
+        ]
+    ],
+    "User Satisfaction": [
+        [
+            "Average customer review rating",
+            "Stars (1-5)"
+        ]
+    ]
+}

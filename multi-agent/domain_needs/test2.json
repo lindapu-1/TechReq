@@ -1,0 +1,32 @@
+{
+    "roles": [
+        {
+            "role": "mechanical_engineer",
+            "needs": [
+                "The Desktop Heaters enhance safety with automatic shut-off mechanisms",
+                "The Desktop Heaters include overheat protection to prevent fire risks",
+                "The Desktop Heaters offer a compact size that fits into various environments"
+            ]
+        },
+        {
+            "role": "material_science_engineer",
+            "needs": [
+                "The Desktop Heaters utilize recyclable and non-toxic materials for sustainability"
+            ]
+        },
+        {
+            "role": "industrial_engineer",
+            "needs": [
+                "The Desktop Heaters minimize energy consumption with adjustable settings",
+                "The Desktop Heaters are easy to operate and maintain for user convenience"
+            ]
+        },
+        {
+            "role": "program_manager",
+            "needs": [
+                "The Desktop Heaters maintain consistent heating without frequent malfunctions",
+                "The Desktop Heaters provide an aesthetically pleasing design"
+            ]
+        }
+    ]
+}

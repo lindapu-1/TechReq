@@ -1,0 +1,170 @@
+{
+    "The Folding Knives enhance cooking efficiency by providing a precision cutting edge that improves culinary performance.": [
+        [
+            "Edge angle consistency",
+            "Degrees deviation"
+        ],
+        [
+            "Slicing efficiency",
+            "Grams of force required to slice standard test medium"
+        ],
+        [
+            "Push-cutting performance",
+            "Number of successful cuts through test medium per standard force application"
+        ]
+    ],
+    "The Folding Knives ensure user safety with built-in safety mechanisms that prevent accidental closures or injuries.": [
+        [
+            "Lock failure rate",
+            "Failures per 10,000 cycles"
+        ],
+        [
+            "Lock strength",
+            "Newtons of force withstood without failure"
+        ],
+        [
+            "Finger safe zone area",
+            "Square centimeters"
+        ]
+    ],
+    "The Folding Knives offer ergonomic design to maximize comfort during prolonged use by home cooks.": [
+        [
+            "Grip fatigue onset",
+            "Minutes of continuous use before user reports discomfort"
+        ],
+        [
+            "Handle contour match to average hand",
+            "Percentage fit to anthropometric data"
+        ],
+        [
+            "Hand position versatility",
+            "Number of comfortable grip positions"
+        ]
+    ],
+    "The Folding Knives provide a durable build that withstands frequent use and diverse tasks for handymen.": [
+        [
+            "Blade wear resistance",
+            "Material removed (mg) after standardized abrasion test"
+        ],
+        [
+            "Pivot durability",
+            "Number of open/close cycles before measurable play develops"
+        ],
+        [
+            "Handle material impact resistance",
+            "Joules absorbed without cracking"
+        ]
+    ],
+    "The Folding Knives incorporate multifunctional capabilities, allowing handymen to adapt quickly to various tasks.": [
+        [
+            "Task versatility index",
+            "Number of standardized tasks performable"
+        ],
+        [
+            "Tool deployment time",
+            "Seconds required to switch between functions"
+        ],
+        [
+            "Multi-tool integration efficiency",
+            "Percentage of tools housed without dimensional compromise"
+        ]
+    ],
+    "The Folding Knives deliver robust performance in outdoor conditions, ensuring reliability during activities like hiking, camping, and fishing.": [
+        [
+            "Operating temperature range",
+            "Degrees Celsius (min to max)"
+        ],
+        [
+            "Wet operation effectiveness",
+            "Percentage retention of cutting performance when wet"
+        ],
+        [
+            "Mechanism reliability in debris",
+            "Number of cycles in standardized grit test before failure"
+        ]
+    ],
+    "The Folding Knives maintain resilience in harsh outdoor environments, resisting wear and tear from natural elements.": [
+        [
+            "Corrosion resistance",
+            "Hours in salt spray test before visible corrosion"
+        ],
+        [
+            "UV stability",
+            "Color/material degradation percentage after 500 hours exposure"
+        ],
+        [
+            "Water/moisture ingress protection",
+            "IP rating"
+        ]
+    ],
+    "The Folding Knives facilitate ease of use with intuitive design features that enable quick deployment and retraction.": [
+        [
+            "One-handed deployment success rate",
+            "Percentage of successful first attempts by new users"
+        ],
+        [
+            "Opening mechanism force requirement",
+            "Newtons"
+        ],
+        [
+            "Deployment learning curve",
+            "Minutes of practice before consistent operation"
+        ]
+    ],
+    "The Folding Knives feature a rugged construction to support multifunctional use in outdoor scenarios without compromising integrity.": [
+        [
+            "Lateral blade play",
+            "Millimeters of deviation under 5kg force"
+        ],
+        [
+            "Torsional strength",
+            "Newton-meters withstood before deformation"
+        ],
+        [
+            "Survival abuse test",
+            "Percentage of functionality retained after standardized stress test"
+        ]
+    ],
+    "The Folding Knives incorporate sharp blades that maintain an edge over time, reducing the need for frequent sharpening.": [
+        [
+            "Edge retention",
+            "Linear meters of standardized medium cut before 30% performance drop"
+        ],
+        [
+            "BESS sharpness score after standard use",
+            "BESS score (lower is sharper)"
+        ],
+        [
+            "Factory edge consistency",
+            "Standard deviation in BESS scores across production run"
+        ]
+    ],
+    "The Folding Knives provide a secure grip to prevent slipping during use, enhancing safety and control.": [
+        [
+            "Wet grip coefficient",
+            "Friction coefficient when handle is wet"
+        ],
+        [
+            "Grip retention under lateral force",
+            "Maximum force (N) before slippage"
+        ],
+        [
+            "Texture depth consistency",
+            "Microns (standard deviation across handle)"
+        ]
+    ],
+    "The Folding Knives offer a compact form factor that allows easy storage and portability without sacrificing functionality.": [
+        [
+            "Pocket profile",
+            "Square centimeters of pocket space occupied"
+        ],
+        [
+            "Weight-to-capability ratio",
+            "Grams per function"
+        ],
+        [
+            "Deployment-to-stowed size ratio",
+            "Ratio of functional length to stored length"
+        ]
+    ]
+}

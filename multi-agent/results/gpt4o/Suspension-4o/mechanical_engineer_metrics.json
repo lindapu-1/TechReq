@@ -1,0 +1,140 @@
+{
+    "The suspension reduces vibration to the hands": [
+        [
+            "Vibration Damping Coefficient",
+            "Dimensionless"
+        ],
+        [
+            "Hand-Arm Vibration Level",
+            "Meters per second squared (m/s\u00b2)"
+        ]
+    ],
+    "The suspension allows easy traversal of slow, difficult terrain": [
+        [
+            "Damping Force",
+            "Newton (N)"
+        ],
+        [
+            "Suspension Travel Speed",
+            "Millimeters per second (mm/s)"
+        ]
+    ],
+    "The suspension enables high-speed descents on bumpy trails": [
+        [
+            "Travel Distance",
+            "Millimeters (mm)"
+        ],
+        [
+            "Compression Rate",
+            "Meters per second (m/s)"
+        ]
+    ],
+    "The suspension allows sensitivity adjustment": [
+        [
+            "Damping Adjustment Levels",
+            "Levels or Clicks"
+        ],
+        [
+            "Preload Adjustment Range",
+            "Percentage (%)"
+        ]
+    ],
+    "The suspension preserves the steering characteristics of the bike": [
+        [
+            "Offset",
+            "Millimeters (mm)"
+        ],
+        [
+            "Trail",
+            "Millimeters (mm)"
+        ]
+    ],
+    "The suspension remains rigid during hard cornering": [
+        [
+            "Lateral Stiffness",
+            "Newton Meter per degree (Nm/\u00b0)"
+        ],
+        [
+            "Torsional Stiffness",
+            "Newton Meter per degree (Nm/\u00b0)"
+        ]
+    ],
+    "The suspension provides stiff mounting points for the brakes": [
+        [
+            "Brake Mount Deflection",
+            "Millimeters (mm)"
+        ],
+        [
+            "Mounting Torque Limit",
+            "Newton Meter (Nm)"
+        ]
+    ],
+    "The suspension fits a wide variety of bikes, wheels, and tires": [
+        [
+            "Axle Compatibility",
+            "Axle Standards"
+        ]
+    ],
+    "The suspension works with fenders": [
+        [
+            "Fender Mounts",
+            "Yes/No"
+        ],
+        [
+            "Clearance",
+            "Millimeters (mm)"
+        ]
+    ],
+    "The suspension is easy to install": [
+        [
+            "Installation Time",
+            "Minutes"
+        ]
+    ],
+    "The suspension is not contaminated by water": [
+        [
+            "IP Rating (Ingress Protection)",
+            "IP Code"
+        ]
+    ],
+    "The suspension is not contaminated by grunge": [
+        [
+            "Seal Effectiveness",
+            "Yes/No"
+        ]
+    ],
+    "The suspension can be easily accessed for maintenance": [
+        [
+            "Maintenance Access Time",
+            "Minutes"
+        ]
+    ],
+    "The suspension allows easy replacement of worn parts": [
+        [
+            "Replacement Parts Availability",
+            "Yes/No"
+        ]
+    ],
+    "The suspension can be maintained with readily available tools": [
+        [
+            "Tool Compatibility",
+            "Standard Tools"
+        ]
+    ],
+    "The suspension lasts a long time": [
+        [
+            "Durability Rating",
+            "Cycles"
+        ],
+        [
+            "Service Life",
+            "Hours"
+        ]
+    ],
+    "The suspension is safe in a crash": [
+        [
+            "Impact Resistance",
+            "Joules (J)"
+        ]
+    ]
+}

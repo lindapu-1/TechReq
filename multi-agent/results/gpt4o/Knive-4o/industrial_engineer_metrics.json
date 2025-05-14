@@ -1,0 +1,36 @@
+{
+    "The Folding Knives enhance cooking efficiency by providing a precision cutting edge that improves culinary performance": [
+        [
+            "Blade sharpness angle",
+            "Degrees"
+        ],
+        [
+            "Cutting force needed",
+            "Newtons"
+        ]
+    ],
+    "The Folding Knives facilitate ease of use with intuitive design features that enable quick deployment and retraction": [
+        [
+            "Time to deploy/retract",
+            "Seconds"
+        ],
+        [
+            "Number of user errors during deployment/retraction",
+            "Count"
+        ],
+        [
+            "Durability test cycles for deployment/retraction",
+            "Number of cycles"
+        ]
+    ],
+    "The Folding Knives offer a compact form factor that allows easy storage and portability without sacrificing functionality": [
+        [
+            "Folded dimensions",
+            "Millimeters"
+        ],
+        [
+            "Weight",
+            "Grams"
+        ]
+    ]
+}

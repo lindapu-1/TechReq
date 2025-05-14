@@ -1,0 +1,40 @@
+{
+    "Incorporate vibrant colors and trendy designs": [
+        [
+            "Color Fastness",
+            "Grade (1 to 5)"
+        ],
+        [
+            "Pattern Precision",
+            "Millimeters (mm)"
+        ]
+    ],
+    "Provide comfort through breathable materials": [
+        [
+            "Air Permeability",
+            "mm/s"
+        ],
+        [
+            "Moisture-Wicking Ability",
+            "g/m\u00b2"
+        ]
+    ],
+    "Integrate innovative materials to enhance safety": [
+        [
+            "Impact Absorption",
+            "Joules (J)"
+        ],
+        [
+            "Material Density",
+            "kg/m\u00b3"
+        ],
+        [
+            "Tensile Strength",
+            "MegaPascals (MPa)"
+        ],
+        [
+            "Manufacturing Time",
+            "Minutes"
+        ]
+    ]
+}

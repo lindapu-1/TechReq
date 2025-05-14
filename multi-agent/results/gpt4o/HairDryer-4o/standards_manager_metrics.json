@@ -1,0 +1,22 @@
+{
+    "Adhere strictly to safety regulations": [
+        [
+            "Compliance with IEC 60335-2-23 Overheat Protection Standards",
+            "Yes/No"
+        ],
+        [
+            "Presence of Critical Safety Certifications (e.g., ETL, UL, CE)",
+            "Yes/No"
+        ]
+    ],
+    "Obtain robust safety certifications and comply with international electrical standards": [
+        [
+            "Certification from Specific International Standards (e.g., ISO 9001, IEC 60204)",
+            "Yes/No"
+        ],
+        [
+            "Compliance with Defined EMC Standards (e.g., CISPR 14-1)",
+            "Yes/No"
+        ]
+    ]
+}

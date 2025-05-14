@@ -1,0 +1,158 @@
+{
+    "Compact and Lightweight Design": [
+        [
+            "Dimensions of the dryer",
+            "cm"
+        ],
+        [
+            "Weight of the dryer",
+            "grams"
+        ],
+        [
+            "Number of heat settings",
+            "count"
+        ],
+        [
+            "Number of speed settings",
+            "count"
+        ],
+        [
+            "Ergonomic design rating",
+            "subjective rating"
+        ],
+        [
+            "Voltage compatibility range",
+            "volts"
+        ]
+    ],
+    "Portability Features": [
+        [
+            "Availability of folding mechanism",
+            "binary (yes/no)"
+        ],
+        [
+            "Availability of detachable parts",
+            "binary (yes/no)"
+        ],
+        [
+            "Ease of assembly/disassembly time",
+            "seconds"
+        ]
+    ],
+    "Safety and Certifications": [
+        [
+            "Temperature cut-off threshold",
+            "\u00b0C"
+        ],
+        [
+            "Time to auto-shutdown in case of overheating",
+            "seconds"
+        ],
+        [
+            "Reset time after shutdown",
+            "seconds"
+        ],
+        [
+            "Presence of Critical Safety Certifications (e.g., ETL, UL, CE)",
+            "Yes/No"
+        ],
+        [
+            "Compliance with IEC 60335-2-23 Overheat Protection Standards",
+            "Yes/No"
+        ],
+        [
+            "Compliance with Defined EMC Standards (e.g., CISPR 14-1)",
+            "Yes/No"
+        ],
+        [
+            "Compliance with regional electrical safety standards",
+            "Standards met (e.g., CE, UL, CCC)"
+        ],
+        [
+            "Heat protection mechanisms",
+            "Types of safety features"
+        ],
+        [
+            "Overheat prevention performance",
+            "Response time (seconds)"
+        ],
+        [
+            "Durability of safety features under various conditions",
+            "Test hours"
+        ]
+    ],
+    "Material Characteristics": [
+        [
+            "Density",
+            "g/cm\u00b3"
+        ],
+        [
+            "Tensile strength",
+            "MPa"
+        ],
+        [
+            "Mechanical strength of components",
+            "MPa"
+        ],
+        [
+            "Specific Strength",
+            "kNm/kg"
+        ]
+    ],
+    "App and Smart Technology Integration": [
+        [
+            "Compatibility with specific mobile app platforms",
+            "List of supported platforms (e.g., iOS, Android)"
+        ],
+        [
+            "App control range",
+            "Meters"
+        ],
+        [
+            "IoT connectivity standard (e.g., Wi-Fi, Bluetooth)",
+            "Type"
+        ],
+        [
+            "Number of device connections supported",
+            "Number of devices"
+        ],
+        [
+            "Data transmission speed",
+            "Mbps"
+        ],
+        [
+            "Compatibility with various smart home systems",
+            "Supported systems"
+        ],
+        [
+            "Connectivity options",
+            "Types (Bluetooth, Wi-Fi)"
+        ],
+        [
+            "Ease of smart app integration",
+            "Steps required"
+        ],
+        [
+            "Time taken for integration",
+            "Minutes"
+        ],
+        [
+            "User satisfaction during integration",
+            "Satisfaction Score (1-10)"
+        ]
+    ],
+    "Temperature Sensors": [
+        [
+            "Accuracy of temperature sensors",
+            "Degrees Celsius"
+        ],
+        [
+            "Response time to temperature change",
+            "Seconds"
+        ],
+        [
+            "Maximum temperature limit",
+            "Degrees Celsius"
+        ]
+    ]
+}
